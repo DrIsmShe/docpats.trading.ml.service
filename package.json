@@ -1,0 +1,23 @@
+{
+  "name": "server-ml-service",
+  "version": "1.0.0",
+  "description": "ML service for BTC trading bot",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "train": "node src/train/train.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.22.0",
+    "@tensorflow/tfjs-backend-cpu": "^4.22.0",
+    "@tensorflow/tfjs-node": "^4.22.0",
+    "axios": "^1.13.6",
+    "dotenv": "^16.0.0",
+    "express": "^4.18.0"
+  }
+}

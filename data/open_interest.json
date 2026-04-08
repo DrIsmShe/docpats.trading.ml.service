@@ -1,0 +1,2502 @@
+[
+  {
+    "time": 1772748000000,
+    "openInterest": 83397.687,
+    "openInterestValue": 5929801270.000561
+  },
+  {
+    "time": 1772751600000,
+    "openInterest": 83448.056,
+    "openInterestValue": 5939701064.777234
+  },
+  {
+    "time": 1772755200000,
+    "openInterest": 83431.399,
+    "openInterestValue": 5911950970.558959
+  },
+  {
+    "time": 1772758800000,
+    "openInterest": 83572.22,
+    "openInterestValue": 5929958799.542
+  },
+  {
+    "time": 1772762400000,
+    "openInterest": 83481.719,
+    "openInterestValue": 5944756351.364604
+  },
+  {
+    "time": 1772766000000,
+    "openInterest": 83088.524,
+    "openInterestValue": 5916891662.2356
+  },
+  {
+    "time": 1772769600000,
+    "openInterest": 82996.149,
+    "openInterestValue": 5896718693.7669
+  },
+  {
+    "time": 1772773200000,
+    "openInterest": 82374.221,
+    "openInterestValue": 5813807769.738
+  },
+  {
+    "time": 1772776800000,
+    "openInterest": 82290.355,
+    "openInterestValue": 5793091889.628491
+  },
+  {
+    "time": 1772780400000,
+    "openInterest": 81934.628,
+    "openInterestValue": 5783172346.673101
+  },
+  {
+    "time": 1772784000000,
+    "openInterest": 81882.466,
+    "openInterestValue": 5815104405.6482
+  },
+  {
+    "time": 1772787600000,
+    "openInterest": 82036.56,
+    "openInterestValue": 5804086620
+  },
+  {
+    "time": 1772791200000,
+    "openInterest": 81892.182,
+    "openInterestValue": 5775884589.8531
+  },
+  {
+    "time": 1772794800000,
+    "openInterest": 81869.941,
+    "openInterestValue": 5772649539.91
+  },
+  {
+    "time": 1772798400000,
+    "openInterest": 82042.561,
+    "openInterestValue": 5759393122.694874
+  },
+  {
+    "time": 1772802000000,
+    "openInterest": 82381.597,
+    "openInterestValue": 5759000872.5208
+  },
+  {
+    "time": 1772805600000,
+    "openInterest": 83311.857,
+    "openInterestValue": 5764506824.197923
+  },
+  {
+    "time": 1772809200000,
+    "openInterest": 83913.048,
+    "openInterestValue": 5738369812.6713085
+  },
+  {
+    "time": 1772812800000,
+    "openInterest": 83449.583,
+    "openInterestValue": 5713908830.454518
+  },
+  {
+    "time": 1772816400000,
+    "openInterest": 83394.723,
+    "openInterestValue": 5705354528.179914
+  },
+  {
+    "time": 1772820000000,
+    "openInterest": 83388.02,
+    "openInterestValue": 5664598231.412
+  },
+  {
+    "time": 1772823600000,
+    "openInterest": 83618.553,
+    "openInterestValue": 5699005756.0044
+  },
+  {
+    "time": 1772827200000,
+    "openInterest": 83462.382,
+    "openInterestValue": 5683946792.7258
+  },
+  {
+    "time": 1772830800000,
+    "openInterest": 83503.446,
+    "openInterestValue": 5686094561.830422
+  },
+  {
+    "time": 1772834400000,
+    "openInterest": 83573.308,
+    "openInterestValue": 5704563572.1256
+  },
+  {
+    "time": 1772838000000,
+    "openInterest": 83365.141,
+    "openInterestValue": 5692705364.3824
+  },
+  {
+    "time": 1772841600000,
+    "openInterest": 83334.539,
+    "openInterestValue": 5674898107.464616
+  },
+  {
+    "time": 1772845200000,
+    "openInterest": 83549.877,
+    "openInterestValue": 5702147986.431833
+  },
+  {
+    "time": 1772848800000,
+    "openInterest": 83727.431,
+    "openInterestValue": 5712161667.611533
+  },
+  {
+    "time": 1772852400000,
+    "openInterest": 84007.618,
+    "openInterestValue": 5739474014.397239
+  },
+  {
+    "time": 1772856000000,
+    "openInterest": 83808.909,
+    "openInterestValue": 5706841210.752543
+  },
+  {
+    "time": 1772859600000,
+    "openInterest": 84229.612,
+    "openInterestValue": 5730425513.62605
+  },
+  {
+    "time": 1772863200000,
+    "openInterest": 84389.238,
+    "openInterestValue": 5737632730.5438
+  },
+  {
+    "time": 1772866800000,
+    "openInterest": 84531.157,
+    "openInterestValue": 5719834550.8678
+  },
+  {
+    "time": 1772870400000,
+    "openInterest": 84659.313,
+    "openInterestValue": 5740697218.9422
+  },
+  {
+    "time": 1772874000000,
+    "openInterest": 84503.967,
+    "openInterestValue": 5726631034.0692
+  },
+  {
+    "time": 1772877600000,
+    "openInterest": 84552.346,
+    "openInterestValue": 5747143513.334888
+  },
+  {
+    "time": 1772881200000,
+    "openInterest": 84370.889,
+    "openInterestValue": 5724708249.1613
+  },
+  {
+    "time": 1772884800000,
+    "openInterest": 84465.358,
+    "openInterestValue": 5741617175.408
+  },
+  {
+    "time": 1772888400000,
+    "openInterest": 84429.464,
+    "openInterestValue": 5737362011.388
+  },
+  {
+    "time": 1772892000000,
+    "openInterest": 84086.459,
+    "openInterestValue": 5709259524.138545
+  },
+  {
+    "time": 1772895600000,
+    "openInterest": 83990.204,
+    "openInterestValue": 5709358500.306193
+  },
+  {
+    "time": 1772899200000,
+    "openInterest": 83979.85,
+    "openInterestValue": 5697604525.265
+  },
+  {
+    "time": 1772902800000,
+    "openInterest": 83961.289,
+    "openInterestValue": 5689145527.081055
+  },
+  {
+    "time": 1772906400000,
+    "openInterest": 83900.548,
+    "openInterestValue": 5684318092.313512
+  },
+  {
+    "time": 1772910000000,
+    "openInterest": 83840.473,
+    "openInterestValue": 5661814214.0684
+  },
+  {
+    "time": 1772913600000,
+    "openInterest": 83796.801,
+    "openInterestValue": 5618407913.448
+  },
+  {
+    "time": 1772917200000,
+    "openInterest": 83774.698,
+    "openInterestValue": 5642586141.5014
+  },
+  {
+    "time": 1772920800000,
+    "openInterest": 83536.464,
+    "openInterestValue": 5631727671.6096
+  },
+  {
+    "time": 1772924400000,
+    "openInterest": 83654.764,
+    "openInterestValue": 5622562170.586
+  },
+  {
+    "time": 1772928000000,
+    "openInterest": 83750.58,
+    "openInterestValue": 5630727369.618
+  },
+  {
+    "time": 1772931600000,
+    "openInterest": 83988.185,
+    "openInterestValue": 5641073425.673871
+  },
+  {
+    "time": 1772935200000,
+    "openInterest": 84268.8,
+    "openInterestValue": 5668450381.44
+  },
+  {
+    "time": 1772938800000,
+    "openInterest": 83996.21,
+    "openInterestValue": 5618615681.973
+  },
+  {
+    "time": 1772942400000,
+    "openInterest": 84340.149,
+    "openInterestValue": 5649322464.4074
+  },
+  {
+    "time": 1772946000000,
+    "openInterest": 84298.955,
+    "openInterestValue": 5615035374.013
+  },
+  {
+    "time": 1772949600000,
+    "openInterest": 84621.931,
+    "openInterestValue": 5679434747.8374
+  },
+  {
+    "time": 1772953200000,
+    "openInterest": 84902.393,
+    "openInterestValue": 5699811780.9441
+  },
+  {
+    "time": 1772956800000,
+    "openInterest": 84598.785,
+    "openInterestValue": 5692461250.471138
+  },
+  {
+    "time": 1772960400000,
+    "openInterest": 84221.227,
+    "openInterestValue": 5684459761.63255
+  },
+  {
+    "time": 1772964000000,
+    "openInterest": 83448.247,
+    "openInterestValue": 5646350391.9363
+  },
+  {
+    "time": 1772967600000,
+    "openInterest": 82949.272,
+    "openInterestValue": 5630380915.2528
+  },
+  {
+    "time": 1772971200000,
+    "openInterest": 82603.379,
+    "openInterestValue": 5574910309.0479
+  },
+  {
+    "time": 1772974800000,
+    "openInterest": 82534.533,
+    "openInterestValue": 5553527875.750335
+  },
+  {
+    "time": 1772978400000,
+    "openInterest": 82445.663,
+    "openInterestValue": 5540516299.457854
+  },
+  {
+    "time": 1772982000000,
+    "openInterest": 82499.522,
+    "openInterestValue": 5552564328.5924
+  },
+  {
+    "time": 1772985600000,
+    "openInterest": 82704.64,
+    "openInterestValue": 5555745844.114341
+  },
+  {
+    "time": 1772989200000,
+    "openInterest": 82945.971,
+    "openInterestValue": 5545110901.142985
+  },
+  {
+    "time": 1772992800000,
+    "openInterest": 82660.152,
+    "openInterestValue": 5537031611.796
+  },
+  {
+    "time": 1772996400000,
+    "openInterest": 82634.553,
+    "openInterestValue": 5518807965.091179
+  },
+  {
+    "time": 1773000000000,
+    "openInterest": 82467.056,
+    "openInterestValue": 5549950401.744
+  },
+  {
+    "time": 1773003600000,
+    "openInterest": 82647.075,
+    "openInterestValue": 5553271851.645
+  },
+  {
+    "time": 1773007200000,
+    "openInterest": 82457.52,
+    "openInterestValue": 5522650122.264
+  },
+  {
+    "time": 1773010800000,
+    "openInterest": 82222.75,
+    "openInterestValue": 5443014493.6
+  },
+  {
+    "time": 1773014400000,
+    "openInterest": 82092.11,
+    "openInterestValue": 5412771325.09
+  },
+  {
+    "time": 1773018000000,
+    "openInterest": 81930.994,
+    "openInterestValue": 5434736507.001223
+  },
+  {
+    "time": 1773021600000,
+    "openInterest": 82583.741,
+    "openInterestValue": 5463429433.027876
+  },
+  {
+    "time": 1773025200000,
+    "openInterest": 82074.8,
+    "openInterestValue": 5459180101.533461
+  },
+  {
+    "time": 1773028800000,
+    "openInterest": 81293.146,
+    "openInterestValue": 5460365819.586637
+  },
+  {
+    "time": 1773032400000,
+    "openInterest": 81056.26,
+    "openInterestValue": 5438413025.318
+  },
+  {
+    "time": 1773036000000,
+    "openInterest": 81633.645,
+    "openInterestValue": 5540423651.743012
+  },
+  {
+    "time": 1773039600000,
+    "openInterest": 81230.99,
+    "openInterestValue": 5460948257.126
+  },
+  {
+    "time": 1773043200000,
+    "openInterest": 81057.902,
+    "openInterestValue": 5471797462.9296
+  },
+  {
+    "time": 1773046800000,
+    "openInterest": 81201.601,
+    "openInterestValue": 5503227383.6124
+  },
+  {
+    "time": 1773050400000,
+    "openInterest": 81639.689,
+    "openInterestValue": 5547122964.6696
+  },
+  {
+    "time": 1773054000000,
+    "openInterest": 81603.435,
+    "openInterestValue": 5515007978.758881
+  },
+  {
+    "time": 1773057600000,
+    "openInterest": 81481.061,
+    "openInterestValue": 5518180925.893355
+  },
+  {
+    "time": 1773061200000,
+    "openInterest": 81186.517,
+    "openInterestValue": 5530832471.337316
+  },
+  {
+    "time": 1773064800000,
+    "openInterest": 82192.606,
+    "openInterestValue": 5666959235.927534
+  },
+  {
+    "time": 1773068400000,
+    "openInterest": 82985.107,
+    "openInterestValue": 5734619431.1494
+  },
+  {
+    "time": 1773072000000,
+    "openInterest": 83098.116,
+    "openInterestValue": 5721296976.7884
+  },
+  {
+    "time": 1773075600000,
+    "openInterest": 82497.014,
+    "openInterestValue": 5686359280.263605
+  },
+  {
+    "time": 1773079200000,
+    "openInterest": 82233.324,
+    "openInterestValue": 5639021759.745301
+  },
+  {
+    "time": 1773082800000,
+    "openInterest": 82068.343,
+    "openInterestValue": 5607691660.042276
+  },
+  {
+    "time": 1773086400000,
+    "openInterest": 82193.646,
+    "openInterestValue": 5668698499.8696
+  },
+  {
+    "time": 1773090000000,
+    "openInterest": 81990.764,
+    "openInterestValue": 5651483978.2212
+  },
+  {
+    "time": 1773093600000,
+    "openInterest": 81905.304,
+    "openInterestValue": 5643544645.780804
+  },
+  {
+    "time": 1773097200000,
+    "openInterest": 81786.062,
+    "openInterestValue": 5610876922.444574
+  },
+  {
+    "time": 1773100800000,
+    "openInterest": 81593.011,
+    "openInterestValue": 5580886459.353488
+  },
+  {
+    "time": 1773104400000,
+    "openInterest": 82450.493,
+    "openInterestValue": 5698771949.9275
+  },
+  {
+    "time": 1773108000000,
+    "openInterest": 82517.822,
+    "openInterestValue": 5713740289.835
+  },
+  {
+    "time": 1773111600000,
+    "openInterest": 83198.159,
+    "openInterestValue": 5844014821.074517
+  },
+  {
+    "time": 1773115200000,
+    "openInterest": 82151.983,
+    "openInterestValue": 5700608252.353
+  },
+  {
+    "time": 1773118800000,
+    "openInterest": 82002.02,
+    "openInterestValue": 5742609660.802
+  },
+  {
+    "time": 1773122400000,
+    "openInterest": 82217.18,
+    "openInterestValue": 5750121578.276
+  },
+  {
+    "time": 1773126000000,
+    "openInterest": 82458.708,
+    "openInterestValue": 5763739719.105306
+  },
+  {
+    "time": 1773129600000,
+    "openInterest": 82064.255,
+    "openInterestValue": 5774869830.7755
+  },
+  {
+    "time": 1773133200000,
+    "openInterest": 82660.58,
+    "openInterestValue": 5839647600.738
+  },
+  {
+    "time": 1773136800000,
+    "openInterest": 83103.599,
+    "openInterestValue": 5903380956.470894
+  },
+  {
+    "time": 1773140400000,
+    "openInterest": 83259.887,
+    "openInterestValue": 5890070838.0184
+  },
+  {
+    "time": 1773144000000,
+    "openInterest": 83215.935,
+    "openInterestValue": 5872914683.064
+  },
+  {
+    "time": 1773147600000,
+    "openInterest": 83371.773,
+    "openInterestValue": 5876584477.5645
+  },
+  {
+    "time": 1773151200000,
+    "openInterest": 82886.976,
+    "openInterestValue": 5792784793.306451
+  },
+  {
+    "time": 1773154800000,
+    "openInterest": 83214.889,
+    "openInterestValue": 5944122736.159
+  },
+  {
+    "time": 1773158400000,
+    "openInterest": 83049.29,
+    "openInterestValue": 5921709814.017056
+  },
+  {
+    "time": 1773162000000,
+    "openInterest": 83434.243,
+    "openInterestValue": 5942749451.274946
+  },
+  {
+    "time": 1773165600000,
+    "openInterest": 82878.044,
+    "openInterestValue": 5870011510.1924
+  },
+  {
+    "time": 1773169200000,
+    "openInterest": 82160.258,
+    "openInterestValue": 5749275231.2632265
+  },
+  {
+    "time": 1773172800000,
+    "openInterest": 81710.672,
+    "openInterestValue": 5719918632.4112
+  },
+  {
+    "time": 1773176400000,
+    "openInterest": 81504.091,
+    "openInterestValue": 5720682492.7899
+  },
+  {
+    "time": 1773180000000,
+    "openInterest": 81006.403,
+    "openInterestValue": 5647427222.218498
+  },
+  {
+    "time": 1773183600000,
+    "openInterest": 80647.971,
+    "openInterestValue": 5618010881.446465
+  },
+  {
+    "time": 1773187200000,
+    "openInterest": 80589.962,
+    "openInterestValue": 5633753832.235856
+  },
+  {
+    "time": 1773190800000,
+    "openInterest": 80802.258,
+    "openInterestValue": 5655762128.9358
+  },
+  {
+    "time": 1773194400000,
+    "openInterest": 80906.051,
+    "openInterestValue": 5665672758.2178
+  },
+  {
+    "time": 1773198000000,
+    "openInterest": 80758.581,
+    "openInterestValue": 5635188416.7342
+  },
+  {
+    "time": 1773201600000,
+    "openInterest": 81013.244,
+    "openInterestValue": 5631826485.9672985
+  },
+  {
+    "time": 1773205200000,
+    "openInterest": 81126.058,
+    "openInterestValue": 5686206531.278
+  },
+  {
+    "time": 1773208800000,
+    "openInterest": 81093.426,
+    "openInterestValue": 5633073743.664
+  },
+  {
+    "time": 1773212400000,
+    "openInterest": 81456.289,
+    "openInterestValue": 5694699477.764998
+  },
+  {
+    "time": 1773216000000,
+    "openInterest": 81442.121,
+    "openInterestValue": 5669463961.686906
+  },
+  {
+    "time": 1773219600000,
+    "openInterest": 81348.965,
+    "openInterestValue": 5663739105.088857
+  },
+  {
+    "time": 1773223200000,
+    "openInterest": 81565.251,
+    "openInterestValue": 5663453594.998887
+  },
+  {
+    "time": 1773226800000,
+    "openInterest": 81526.94,
+    "openInterestValue": 5671770551.259228
+  },
+  {
+    "time": 1773230400000,
+    "openInterest": 81270.817,
+    "openInterestValue": 5619446260.2199
+  },
+  {
+    "time": 1773234000000,
+    "openInterest": 81175.653,
+    "openInterestValue": 5627445135.387019
+  },
+  {
+    "time": 1773237600000,
+    "openInterest": 81309.82,
+    "openInterestValue": 5703011073.948503
+  },
+  {
+    "time": 1773241200000,
+    "openInterest": 82075.698,
+    "openInterestValue": 5788815395.0796
+  },
+  {
+    "time": 1773244800000,
+    "openInterest": 81950.647,
+    "openInterestValue": 5751111091.699595
+  },
+  {
+    "time": 1773248400000,
+    "openInterest": 82530.182,
+    "openInterestValue": 5821183857.188
+  },
+  {
+    "time": 1773252000000,
+    "openInterest": 83097.153,
+    "openInterestValue": 5879422724.5008
+  },
+  {
+    "time": 1773255600000,
+    "openInterest": 83006.921,
+    "openInterestValue": 5858811099.4062
+  },
+  {
+    "time": 1773259200000,
+    "openInterest": 82714.597,
+    "openInterestValue": 5840122125.095573
+  },
+  {
+    "time": 1773262800000,
+    "openInterest": 82334.442,
+    "openInterestValue": 5811895516.997041
+  },
+  {
+    "time": 1773266400000,
+    "openInterest": 82370.932,
+    "openInterestValue": 5824011096.871213
+  },
+  {
+    "time": 1773270000000,
+    "openInterest": 82467.748,
+    "openInterestValue": 5801104038.02989
+  },
+  {
+    "time": 1773273600000,
+    "openInterest": 82660.243,
+    "openInterestValue": 5798607780.4257
+  },
+  {
+    "time": 1773277200000,
+    "openInterest": 82622.556,
+    "openInterestValue": 5798520988.9255085
+  },
+  {
+    "time": 1773280800000,
+    "openInterest": 82048.214,
+    "openInterestValue": 5725938264.197211
+  },
+  {
+    "time": 1773284400000,
+    "openInterest": 81561.357,
+    "openInterestValue": 5647771631.915872
+  },
+  {
+    "time": 1773288000000,
+    "openInterest": 81565.82,
+    "openInterestValue": 5660671514.627673
+  },
+  {
+    "time": 1773291600000,
+    "openInterest": 81678.652,
+    "openInterestValue": 5663009643.3856
+  },
+  {
+    "time": 1773295200000,
+    "openInterest": 81451.493,
+    "openInterestValue": 5655719650.132619
+  },
+  {
+    "time": 1773298800000,
+    "openInterest": 81366.413,
+    "openInterestValue": 5651344898.1215
+  },
+  {
+    "time": 1773302400000,
+    "openInterest": 81843.558,
+    "openInterestValue": 5712100632.686715
+  },
+  {
+    "time": 1773306000000,
+    "openInterest": 82146.133,
+    "openInterestValue": 5739156011.2716
+  },
+  {
+    "time": 1773309600000,
+    "openInterest": 81079.423,
+    "openInterestValue": 5668900934.772095
+  },
+  {
+    "time": 1773313200000,
+    "openInterest": 81373.845,
+    "openInterestValue": 5726583027.168289
+  },
+  {
+    "time": 1773316800000,
+    "openInterest": 81961.397,
+    "openInterestValue": 5769803680.0502
+  },
+  {
+    "time": 1773320400000,
+    "openInterest": 82251.017,
+    "openInterestValue": 5786235669.4245
+  },
+  {
+    "time": 1773324000000,
+    "openInterest": 82995.889,
+    "openInterestValue": 5804143205.8481
+  },
+  {
+    "time": 1773327600000,
+    "openInterest": 83304.936,
+    "openInterestValue": 5793960994.469339
+  },
+  {
+    "time": 1773331200000,
+    "openInterest": 83394.988,
+    "openInterestValue": 5861727177.883251
+  },
+  {
+    "time": 1773334800000,
+    "openInterest": 84271.714,
+    "openInterestValue": 5927348839.375692
+  },
+  {
+    "time": 1773338400000,
+    "openInterest": 84132.779,
+    "openInterestValue": 5903361530.6488
+  },
+  {
+    "time": 1773342000000,
+    "openInterest": 83778.042,
+    "openInterestValue": 5846115548.802
+  },
+  {
+    "time": 1773345600000,
+    "openInterest": 83873.963,
+    "openInterestValue": 5905057276.279773
+  },
+  {
+    "time": 1773349200000,
+    "openInterest": 83941.14,
+    "openInterestValue": 5886769167.184177
+  },
+  {
+    "time": 1773352800000,
+    "openInterest": 83745.684,
+    "openInterestValue": 5882673699.738
+  },
+  {
+    "time": 1773356400000,
+    "openInterest": 83902.489,
+    "openInterestValue": 5885600851.937198
+  },
+  {
+    "time": 1773360000000,
+    "openInterest": 84271.193,
+    "openInterestValue": 5940047298.446629
+  },
+  {
+    "time": 1773363600000,
+    "openInterest": 85965.31,
+    "openInterestValue": 6142242838.500416
+  },
+  {
+    "time": 1773367200000,
+    "openInterest": 86369.209,
+    "openInterestValue": 6186626440.67
+  },
+  {
+    "time": 1773370800000,
+    "openInterest": 86232.264,
+    "openInterestValue": 6132499977.205571
+  },
+  {
+    "time": 1773374400000,
+    "openInterest": 85626.932,
+    "openInterestValue": 6111348945.990058
+  },
+  {
+    "time": 1773378000000,
+    "openInterest": 85758.977,
+    "openInterestValue": 6119446792.865702
+  },
+  {
+    "time": 1773381600000,
+    "openInterest": 85865.823,
+    "openInterestValue": 6140737264.7565
+  },
+  {
+    "time": 1773385200000,
+    "openInterest": 85355.642,
+    "openInterestValue": 6087205893.7436
+  },
+  {
+    "time": 1773388800000,
+    "openInterest": 86634.836,
+    "openInterestValue": 6201780725.5108
+  },
+  {
+    "time": 1773392400000,
+    "openInterest": 88195.605,
+    "openInterestValue": 6331562482.95
+  },
+  {
+    "time": 1773396000000,
+    "openInterest": 88196.295,
+    "openInterestValue": 6347071554.190538
+  },
+  {
+    "time": 1773399600000,
+    "openInterest": 88932.499,
+    "openInterestValue": 6440608116.53113
+  },
+  {
+    "time": 1773403200000,
+    "openInterest": 88820.268,
+    "openInterestValue": 6412219371.7776
+  },
+  {
+    "time": 1773406800000,
+    "openInterest": 89349.177,
+    "openInterestValue": 6498857063.6835
+  },
+  {
+    "time": 1773410400000,
+    "openInterest": 88991.522,
+    "openInterestValue": 6528596036.964
+  },
+  {
+    "time": 1773414000000,
+    "openInterest": 91473.597,
+    "openInterestValue": 6618373406.419599
+  },
+  {
+    "time": 1773417600000,
+    "openInterest": 88762.953,
+    "openInterestValue": 6373323393.649391
+  },
+  {
+    "time": 1773421200000,
+    "openInterest": 85660.094,
+    "openInterestValue": 6154557829.7684
+  },
+  {
+    "time": 1773424800000,
+    "openInterest": 86566.721,
+    "openInterestValue": 6146418981.1141
+  },
+  {
+    "time": 1773428400000,
+    "openInterest": 85117.31,
+    "openInterestValue": 6045088301.53084
+  },
+  {
+    "time": 1773432000000,
+    "openInterest": 85234.233,
+    "openInterestValue": 6063520718.5035
+  },
+  {
+    "time": 1773435600000,
+    "openInterest": 84876.984,
+    "openInterestValue": 6052365536.58
+  },
+  {
+    "time": 1773439200000,
+    "openInterest": 84577.575,
+    "openInterestValue": 6010544773.783272
+  },
+  {
+    "time": 1773442800000,
+    "openInterest": 83495.485,
+    "openInterestValue": 5909786691.985601
+  },
+  {
+    "time": 1773446400000,
+    "openInterest": 83154.167,
+    "openInterestValue": 5895264561.9652
+  },
+  {
+    "time": 1773450000000,
+    "openInterest": 82838.086,
+    "openInterestValue": 5849081512.046334
+  },
+  {
+    "time": 1773453600000,
+    "openInterest": 83387.552,
+    "openInterestValue": 5903820839.081277
+  },
+  {
+    "time": 1773457200000,
+    "openInterest": 83523.885,
+    "openInterestValue": 5908663377.447
+  },
+  {
+    "time": 1773460800000,
+    "openInterest": 83353.965,
+    "openInterestValue": 5921236024.970165
+  },
+  {
+    "time": 1773464400000,
+    "openInterest": 83345.317,
+    "openInterestValue": 5917209129.3271
+  },
+  {
+    "time": 1773468000000,
+    "openInterest": 83559.885,
+    "openInterestValue": 5931258254.734283
+  },
+  {
+    "time": 1773471600000,
+    "openInterest": 83942.945,
+    "openInterestValue": 5925297447.304
+  },
+  {
+    "time": 1773475200000,
+    "openInterest": 83804.311,
+    "openInterestValue": 5913709868.7327
+  },
+  {
+    "time": 1773478800000,
+    "openInterest": 84053.592,
+    "openInterestValue": 5930106995.988
+  },
+  {
+    "time": 1773482400000,
+    "openInterest": 84462.501,
+    "openInterestValue": 5953546652.554464
+  },
+  {
+    "time": 1773486000000,
+    "openInterest": 84787.527,
+    "openInterestValue": 5980481261.818225
+  },
+  {
+    "time": 1773489600000,
+    "openInterest": 84660.683,
+    "openInterestValue": 5986053042.830934
+  },
+  {
+    "time": 1773493200000,
+    "openInterest": 84508.916,
+    "openInterestValue": 5977611409.886
+  },
+  {
+    "time": 1773496800000,
+    "openInterest": 84429.116,
+    "openInterestValue": 5980008150.927965
+  },
+  {
+    "time": 1773500400000,
+    "openInterest": 84425.194,
+    "openInterestValue": 5957615779.9592
+  },
+  {
+    "time": 1773504000000,
+    "openInterest": 84391.984,
+    "openInterestValue": 5955057887.254939
+  },
+  {
+    "time": 1773507600000,
+    "openInterest": 84154.18,
+    "openInterestValue": 5945004722.756
+  },
+  {
+    "time": 1773511200000,
+    "openInterest": 84138.695,
+    "openInterestValue": 5939022339.1395
+  },
+  {
+    "time": 1773514800000,
+    "openInterest": 84154.655,
+    "openInterestValue": 5943598260.883401
+  },
+  {
+    "time": 1773518400000,
+    "openInterest": 84137.928,
+    "openInterestValue": 5945530957.9848
+  },
+  {
+    "time": 1773522000000,
+    "openInterest": 84035.03,
+    "openInterestValue": 5946958824.321942
+  },
+  {
+    "time": 1773525600000,
+    "openInterest": 83767.67,
+    "openInterestValue": 5926922853.481
+  },
+  {
+    "time": 1773529200000,
+    "openInterest": 83885.436,
+    "openInterestValue": 5928905176.8696
+  },
+  {
+    "time": 1773532800000,
+    "openInterest": 83494.763,
+    "openInterestValue": 5942689659.6672
+  },
+  {
+    "time": 1773536400000,
+    "openInterest": 83487.89,
+    "openInterestValue": 5923507539.445
+  },
+  {
+    "time": 1773540000000,
+    "openInterest": 83422.352,
+    "openInterestValue": 5920563378.022524
+  },
+  {
+    "time": 1773543600000,
+    "openInterest": 83012.913,
+    "openInterestValue": 5927902510.497523
+  },
+  {
+    "time": 1773547200000,
+    "openInterest": 83198.401,
+    "openInterestValue": 5933851087.923985
+  },
+  {
+    "time": 1773550800000,
+    "openInterest": 83036.498,
+    "openInterestValue": 5940760943.849182
+  },
+  {
+    "time": 1773554400000,
+    "openInterest": 83041.054,
+    "openInterestValue": 5933204957.862287
+  },
+  {
+    "time": 1773558000000,
+    "openInterest": 82616.45,
+    "openInterestValue": 5900070300.04
+  },
+  {
+    "time": 1773561600000,
+    "openInterest": 82033.012,
+    "openInterestValue": 5858934768.744927
+  },
+  {
+    "time": 1773565200000,
+    "openInterest": 81687.74,
+    "openInterestValue": 5854952426.952
+  },
+  {
+    "time": 1773568800000,
+    "openInterest": 82080.012,
+    "openInterestValue": 5889347565.0156
+  },
+  {
+    "time": 1773572400000,
+    "openInterest": 82237.193,
+    "openInterestValue": 5899847627.919137
+  },
+  {
+    "time": 1773576000000,
+    "openInterest": 82114.888,
+    "openInterestValue": 5895848958.4
+  },
+  {
+    "time": 1773579600000,
+    "openInterest": 81982.193,
+    "openInterestValue": 5868608706.194887
+  },
+  {
+    "time": 1773583200000,
+    "openInterest": 82450.741,
+    "openInterestValue": 5902307417.808452
+  },
+  {
+    "time": 1773586800000,
+    "openInterest": 82681.951,
+    "openInterestValue": 5919035508.188
+  },
+  {
+    "time": 1773590400000,
+    "openInterest": 82394.104,
+    "openInterestValue": 5886600092.976323
+  },
+  {
+    "time": 1773594000000,
+    "openInterest": 82503.54,
+    "openInterestValue": 5891198275.116
+  },
+  {
+    "time": 1773597600000,
+    "openInterest": 82446.739,
+    "openInterestValue": 5919170220.921542
+  },
+  {
+    "time": 1773601200000,
+    "openInterest": 82114.113,
+    "openInterestValue": 5858836522.33646
+  },
+  {
+    "time": 1773604800000,
+    "openInterest": 82042.365,
+    "openInterestValue": 5867276141.448
+  },
+  {
+    "time": 1773608400000,
+    "openInterest": 82153.757,
+    "openInterestValue": 5889685887.848213
+  },
+  {
+    "time": 1773612000000,
+    "openInterest": 82316.233,
+    "openInterestValue": 5932909566.9818
+  },
+  {
+    "time": 1773615600000,
+    "openInterest": 83492.319,
+    "openInterestValue": 6070643022.171
+  },
+  {
+    "time": 1773619200000,
+    "openInterest": 83090.614,
+    "openInterestValue": 6047235178.1832
+  },
+  {
+    "time": 1773622800000,
+    "openInterest": 83159.099,
+    "openInterestValue": 6028113541.033359
+  },
+  {
+    "time": 1773626400000,
+    "openInterest": 83223.357,
+    "openInterestValue": 6052343736.8037
+  },
+  {
+    "time": 1773630000000,
+    "openInterest": 83539.085,
+    "openInterestValue": 6055526202.969229
+  },
+  {
+    "time": 1773633600000,
+    "openInterest": 84132.191,
+    "openInterestValue": 6187039260.0445
+  },
+  {
+    "time": 1773637200000,
+    "openInterest": 87054.464,
+    "openInterestValue": 6425187149.331061
+  },
+  {
+    "time": 1773640800000,
+    "openInterest": 87634.478,
+    "openInterestValue": 6497833640.266
+  },
+  {
+    "time": 1773644400000,
+    "openInterest": 87523.461,
+    "openInterestValue": 6449652841.543385
+  },
+  {
+    "time": 1773648000000,
+    "openInterest": 87470.258,
+    "openInterestValue": 6422057595.3342
+  },
+  {
+    "time": 1773651600000,
+    "openInterest": 86057.813,
+    "openInterestValue": 6290776439.976609
+  },
+  {
+    "time": 1773655200000,
+    "openInterest": 86119.578,
+    "openInterestValue": 6305641053.3288
+  },
+  {
+    "time": 1773658800000,
+    "openInterest": 86274.741,
+    "openInterestValue": 6362428486.190529
+  },
+  {
+    "time": 1773662400000,
+    "openInterest": 86574.471,
+    "openInterestValue": 6364548207.9063
+  },
+  {
+    "time": 1773666000000,
+    "openInterest": 87620.471,
+    "openInterestValue": 6470048508.108544
+  },
+  {
+    "time": 1773669600000,
+    "openInterest": 88239.649,
+    "openInterestValue": 6535734322.132
+  },
+  {
+    "time": 1773673200000,
+    "openInterest": 86484.695,
+    "openInterestValue": 6358320182.522
+  },
+  {
+    "time": 1773676800000,
+    "openInterest": 87024.321,
+    "openInterestValue": 6374041027.150536
+  },
+  {
+    "time": 1773680400000,
+    "openInterest": 88086.585,
+    "openInterestValue": 6494306800.344
+  },
+  {
+    "time": 1773684000000,
+    "openInterest": 88614.994,
+    "openInterestValue": 6549693713.5292
+  },
+  {
+    "time": 1773687600000,
+    "openInterest": 89113.079,
+    "openInterestValue": 6583674276.52
+  },
+  {
+    "time": 1773691200000,
+    "openInterest": 89051.582,
+    "openInterestValue": 6584162292.543
+  },
+  {
+    "time": 1773694800000,
+    "openInterest": 89127.854,
+    "openInterestValue": 6612529180.041
+  },
+  {
+    "time": 1773698400000,
+    "openInterest": 88911.614,
+    "openInterestValue": 6611514152.605237
+  },
+  {
+    "time": 1773702000000,
+    "openInterest": 88743.145,
+    "openInterestValue": 6630914417.3435
+  },
+  {
+    "time": 1773705600000,
+    "openInterest": 88359.114,
+    "openInterestValue": 6613707290.641551
+  },
+  {
+    "time": 1773709200000,
+    "openInterest": 89263.262,
+    "openInterestValue": 6720273942.932
+  },
+  {
+    "time": 1773712800000,
+    "openInterest": 90363.948,
+    "openInterestValue": 6831116293.81382
+  },
+  {
+    "time": 1773716400000,
+    "openInterest": 89856.372,
+    "openInterestValue": 6753479214.362527
+  },
+  {
+    "time": 1773720000000,
+    "openInterest": 88822.741,
+    "openInterestValue": 6610614734.3768
+  },
+  {
+    "time": 1773723600000,
+    "openInterest": 87723.297,
+    "openInterestValue": 6509839188.670209
+  },
+  {
+    "time": 1773727200000,
+    "openInterest": 88927.42,
+    "openInterestValue": 6580501632.830331
+  },
+  {
+    "time": 1773730800000,
+    "openInterest": 88464.814,
+    "openInterestValue": 6550776090.478408
+  },
+  {
+    "time": 1773734400000,
+    "openInterest": 88155.412,
+    "openInterestValue": 6542259959.6736
+  },
+  {
+    "time": 1773738000000,
+    "openInterest": 88277.014,
+    "openInterestValue": 6545816265.808956
+  },
+  {
+    "time": 1773741600000,
+    "openInterest": 87947.962,
+    "openInterestValue": 6498474912.18
+  },
+  {
+    "time": 1773745200000,
+    "openInterest": 86106.889,
+    "openInterestValue": 6346189658.2557
+  },
+  {
+    "time": 1773748800000,
+    "openInterest": 86677.601,
+    "openInterestValue": 6414027267.534499
+  },
+  {
+    "time": 1773752400000,
+    "openInterest": 86815.211,
+    "openInterestValue": 6399550423.082362
+  },
+  {
+    "time": 1773756000000,
+    "openInterest": 89098.181,
+    "openInterestValue": 6555265019.8035
+  },
+  {
+    "time": 1773759600000,
+    "openInterest": 89457.221,
+    "openInterestValue": 6650249809.14
+  },
+  {
+    "time": 1773763200000,
+    "openInterest": 89184.252,
+    "openInterestValue": 6589165124.472619
+  },
+  {
+    "time": 1773766800000,
+    "openInterest": 89986.108,
+    "openInterestValue": 6669491368.0252
+  },
+  {
+    "time": 1773770400000,
+    "openInterest": 91913.029,
+    "openInterestValue": 6845766777.412442
+  },
+  {
+    "time": 1773774000000,
+    "openInterest": 92448.623,
+    "openInterestValue": 6900275223.32509
+  },
+  {
+    "time": 1773777600000,
+    "openInterest": 92887.213,
+    "openInterestValue": 6917868075.388
+  },
+  {
+    "time": 1773781200000,
+    "openInterest": 92641.565,
+    "openInterestValue": 6899008081.3935
+  },
+  {
+    "time": 1773784800000,
+    "openInterest": 92815.75,
+    "openInterestValue": 6928723582.225
+  },
+  {
+    "time": 1773788400000,
+    "openInterest": 93087.092,
+    "openInterestValue": 6913196665.7628
+  },
+  {
+    "time": 1773792000000,
+    "openInterest": 93211.424,
+    "openInterestValue": 6885751598.2976
+  },
+  {
+    "time": 1773795600000,
+    "openInterest": 92912.349,
+    "openInterestValue": 6859672270.4955
+  },
+  {
+    "time": 1773799200000,
+    "openInterest": 92864.505,
+    "openInterestValue": 6875417761.59597
+  },
+  {
+    "time": 1773802800000,
+    "openInterest": 93036.301,
+    "openInterestValue": 6912597164.3
+  },
+  {
+    "time": 1773806400000,
+    "openInterest": 93430.276,
+    "openInterestValue": 6952576616.4296
+  },
+  {
+    "time": 1773810000000,
+    "openInterest": 93481.409,
+    "openInterestValue": 6930468611.5966
+  },
+  {
+    "time": 1773813600000,
+    "openInterest": 93577.09,
+    "openInterestValue": 6916404372.117
+  },
+  {
+    "time": 1773817200000,
+    "openInterest": 93506.768,
+    "openInterestValue": 6911200259.336345
+  },
+  {
+    "time": 1773820800000,
+    "openInterest": 93431.301,
+    "openInterestValue": 6898984277.784191
+  },
+  {
+    "time": 1773824400000,
+    "openInterest": 93749.728,
+    "openInterestValue": 6938032995.3952
+  },
+  {
+    "time": 1773828000000,
+    "openInterest": 93569.649,
+    "openInterestValue": 6937716143.143717
+  },
+  {
+    "time": 1773831600000,
+    "openInterest": 93593.943,
+    "openInterestValue": 6916124417.985
+  },
+  {
+    "time": 1773835200000,
+    "openInterest": 92845.638,
+    "openInterestValue": 6769904873.081007
+  },
+  {
+    "time": 1773838800000,
+    "openInterest": 91822.975,
+    "openInterestValue": 6642185439.835897
+  },
+  {
+    "time": 1773842400000,
+    "openInterest": 91241.67,
+    "openInterestValue": 6579063939.491239
+  },
+  {
+    "time": 1773846000000,
+    "openInterest": 90070.636,
+    "openInterestValue": 6408354617.1916
+  },
+  {
+    "time": 1773849600000,
+    "openInterest": 87158.31,
+    "openInterestValue": 6226549533.068832
+  },
+  {
+    "time": 1773853200000,
+    "openInterest": 87299.566,
+    "openInterestValue": 6223533680.4004
+  },
+  {
+    "time": 1773856800000,
+    "openInterest": 86847.077,
+    "openInterestValue": 6215269730.249566
+  },
+  {
+    "time": 1773860400000,
+    "openInterest": 86380.912,
+    "openInterestValue": 6138874351.249409
+  },
+  {
+    "time": 1773864000000,
+    "openInterest": 86873.032,
+    "openInterestValue": 6170930267.7848
+  },
+  {
+    "time": 1773867600000,
+    "openInterest": 86178.032,
+    "openInterestValue": 6135701161.8076725
+  },
+  {
+    "time": 1773871200000,
+    "openInterest": 86011.858,
+    "openInterestValue": 6127100026.646747
+  },
+  {
+    "time": 1773874800000,
+    "openInterest": 85942.728,
+    "openInterestValue": 6112074929.904
+  },
+  {
+    "time": 1773878400000,
+    "openInterest": 85934.444,
+    "openInterestValue": 6119282055.695424
+  },
+  {
+    "time": 1773882000000,
+    "openInterest": 86059.535,
+    "openInterestValue": 6108612308.565108
+  },
+  {
+    "time": 1773885600000,
+    "openInterest": 86175.32,
+    "openInterestValue": 6125888511.145199
+  },
+  {
+    "time": 1773889200000,
+    "openInterest": 86265.468,
+    "openInterestValue": 6126777845.869353
+  },
+  {
+    "time": 1773892800000,
+    "openInterest": 86463.158,
+    "openInterestValue": 6154456232.7558
+  },
+  {
+    "time": 1773896400000,
+    "openInterest": 86494.424,
+    "openInterestValue": 6123000821.0568
+  },
+  {
+    "time": 1773900000000,
+    "openInterest": 86685.894,
+    "openInterestValue": 6136780499.7102
+  },
+  {
+    "time": 1773903600000,
+    "openInterest": 87048.906,
+    "openInterestValue": 6141653909.063728
+  },
+  {
+    "time": 1773907200000,
+    "openInterest": 87327.666,
+    "openInterestValue": 6125945928.715847
+  },
+  {
+    "time": 1773910800000,
+    "openInterest": 89205.388,
+    "openInterestValue": 6240667352.904973
+  },
+  {
+    "time": 1773914400000,
+    "openInterest": 88783.368,
+    "openInterestValue": 6256767787.642777
+  },
+  {
+    "time": 1773918000000,
+    "openInterest": 88913.62,
+    "openInterestValue": 6233115940.165337
+  },
+  {
+    "time": 1773921600000,
+    "openInterest": 89205.516,
+    "openInterestValue": 6237847355.6772
+  },
+  {
+    "time": 1773925200000,
+    "openInterest": 88225.125,
+    "openInterestValue": 6110233949.6625
+  },
+  {
+    "time": 1773928800000,
+    "openInterest": 88645.232,
+    "openInterestValue": 6192622939.672
+  },
+  {
+    "time": 1773932400000,
+    "openInterest": 88596.536,
+    "openInterestValue": 6154301255.438636
+  },
+  {
+    "time": 1773936000000,
+    "openInterest": 86928.555,
+    "openInterestValue": 6030042617.529
+  },
+  {
+    "time": 1773939600000,
+    "openInterest": 87781.327,
+    "openInterestValue": 6094457952.585698
+  },
+  {
+    "time": 1773943200000,
+    "openInterest": 87503.573,
+    "openInterestValue": 6109513130.274288
+  },
+  {
+    "time": 1773946800000,
+    "openInterest": 87452.718,
+    "openInterestValue": 6103953517.331588
+  },
+  {
+    "time": 1773950400000,
+    "openInterest": 87146.178,
+    "openInterestValue": 6120877389.5682
+  },
+  {
+    "time": 1773954000000,
+    "openInterest": 87098.816,
+    "openInterestValue": 6136087389.507974
+  },
+  {
+    "time": 1773957600000,
+    "openInterest": 87003.704,
+    "openInterestValue": 6123396011.291692
+  },
+  {
+    "time": 1773961200000,
+    "openInterest": 87083.339,
+    "openInterestValue": 6109777056.106554
+  },
+  {
+    "time": 1773964800000,
+    "openInterest": 86874.419,
+    "openInterestValue": 6072083733.190474
+  },
+  {
+    "time": 1773968400000,
+    "openInterest": 86900.593,
+    "openInterestValue": 6097307059.710547
+  },
+  {
+    "time": 1773972000000,
+    "openInterest": 86931.21,
+    "openInterestValue": 6117184078.401
+  },
+  {
+    "time": 1773975600000,
+    "openInterest": 86770.749,
+    "openInterestValue": 6106840031.5494175
+  },
+  {
+    "time": 1773979200000,
+    "openInterest": 86899.841,
+    "openInterestValue": 6143846436.929382
+  },
+  {
+    "time": 1773982800000,
+    "openInterest": 87221.396,
+    "openInterestValue": 6170720419.286159
+  },
+  {
+    "time": 1773986400000,
+    "openInterest": 87455.953,
+    "openInterestValue": 6171792839.9959
+  },
+  {
+    "time": 1773990000000,
+    "openInterest": 87451.314,
+    "openInterestValue": 6162112233.925579
+  },
+  {
+    "time": 1773993600000,
+    "openInterest": 87618.192,
+    "openInterestValue": 6204410650.0848
+  },
+  {
+    "time": 1773997200000,
+    "openInterest": 87423.725,
+    "openInterestValue": 6207394545.413117
+  },
+  {
+    "time": 1774000800000,
+    "openInterest": 87559.317,
+    "openInterestValue": 6176954312.102618
+  },
+  {
+    "time": 1774004400000,
+    "openInterest": 87076.183,
+    "openInterestValue": 6145915364.7047
+  },
+  {
+    "time": 1774008000000,
+    "openInterest": 86590.223,
+    "openInterestValue": 6099406649.0977
+  },
+  {
+    "time": 1774011600000,
+    "openInterest": 86961.734,
+    "openInterestValue": 6114129148.729022
+  },
+  {
+    "time": 1774015200000,
+    "openInterest": 87459.989,
+    "openInterestValue": 6107427237.8579
+  },
+  {
+    "time": 1774018800000,
+    "openInterest": 86857.937,
+    "openInterestValue": 6054510670.7283
+  },
+  {
+    "time": 1774022400000,
+    "openInterest": 86792.299,
+    "openInterestValue": 6061433743.540538
+  },
+  {
+    "time": 1774026000000,
+    "openInterest": 86916.6,
+    "openInterestValue": 6066159971.111022
+  },
+  {
+    "time": 1774029600000,
+    "openInterest": 87189.752,
+    "openInterestValue": 6100204841.7544
+  },
+  {
+    "time": 1774033200000,
+    "openInterest": 87035.137,
+    "openInterestValue": 6069540759.187634
+  },
+  {
+    "time": 1774036800000,
+    "openInterest": 87137.858,
+    "openInterestValue": 6111221967.5424
+  },
+  {
+    "time": 1774040400000,
+    "openInterest": 86885.361,
+    "openInterestValue": 6083686911.6117
+  },
+  {
+    "time": 1774044000000,
+    "openInterest": 87084.813,
+    "openInterestValue": 6140219537.4105
+  },
+  {
+    "time": 1774047600000,
+    "openInterest": 86885.839,
+    "openInterestValue": 6146388841.149937
+  },
+  {
+    "time": 1774051200000,
+    "openInterest": 86774.827,
+    "openInterestValue": 6115467845.499733
+  },
+  {
+    "time": 1774054800000,
+    "openInterest": 87128.088,
+    "openInterestValue": 6155067935.8632
+  },
+  {
+    "time": 1774058400000,
+    "openInterest": 87257.481,
+    "openInterestValue": 6145763048.386453
+  },
+  {
+    "time": 1774062000000,
+    "openInterest": 87274.963,
+    "openInterestValue": 6170671528.9594
+  },
+  {
+    "time": 1774065600000,
+    "openInterest": 87381.512,
+    "openInterestValue": 6172446506.5048
+  },
+  {
+    "time": 1774069200000,
+    "openInterest": 87369.655,
+    "openInterestValue": 6168533541.0685
+  },
+  {
+    "time": 1774072800000,
+    "openInterest": 87301.991,
+    "openInterestValue": 6169972181.7349
+  },
+  {
+    "time": 1774076400000,
+    "openInterest": 87312.819,
+    "openInterestValue": 6176814410.9265
+  },
+  {
+    "time": 1774080000000,
+    "openInterest": 87166.133,
+    "openInterestValue": 6161030988.183387
+  },
+  {
+    "time": 1774083600000,
+    "openInterest": 87421.172,
+    "openInterestValue": 6168735128.3048
+  },
+  {
+    "time": 1774087200000,
+    "openInterest": 87343.64,
+    "openInterestValue": 6169419137.6719475
+  },
+  {
+    "time": 1774090800000,
+    "openInterest": 87488.916,
+    "openInterestValue": 6174626484.5076
+  },
+  {
+    "time": 1774094400000,
+    "openInterest": 87358.981,
+    "openInterestValue": 6169142727.9523
+  },
+  {
+    "time": 1774098000000,
+    "openInterest": 87367.719,
+    "openInterestValue": 6175150378.92
+  },
+  {
+    "time": 1774101600000,
+    "openInterest": 87369.208,
+    "openInterestValue": 6177034414.830276
+  },
+  {
+    "time": 1774105200000,
+    "openInterest": 87326.572,
+    "openInterestValue": 6164970696.781674
+  },
+  {
+    "time": 1774108800000,
+    "openInterest": 87309.322,
+    "openInterestValue": 6163959554.8102
+  },
+  {
+    "time": 1774112400000,
+    "openInterest": 87473.833,
+    "openInterestValue": 6147214866.6917
+  },
+  {
+    "time": 1774116000000,
+    "openInterest": 87437.449,
+    "openInterestValue": 6145752230.190062
+  },
+  {
+    "time": 1774119600000,
+    "openInterest": 87296.932,
+    "openInterestValue": 6143396468.673773
+  },
+  {
+    "time": 1774123200000,
+    "openInterest": 87401.294,
+    "openInterestValue": 6150081850.260229
+  },
+  {
+    "time": 1774126800000,
+    "openInterest": 87293.692,
+    "openInterestValue": 6148318449.274
+  },
+  {
+    "time": 1774130400000,
+    "openInterest": 87143.479,
+    "openInterestValue": 6128063180.198634
+  },
+  {
+    "time": 1774134000000,
+    "openInterest": 87202.767,
+    "openInterestValue": 6126282150.8811
+  },
+  {
+    "time": 1774137600000,
+    "openInterest": 86381.612,
+    "openInterestValue": 5950086368.8168
+  },
+  {
+    "time": 1774141200000,
+    "openInterest": 86939.831,
+    "openInterestValue": 5990791866.780873
+  },
+  {
+    "time": 1774144800000,
+    "openInterest": 87155.821,
+    "openInterestValue": 6007310833.8281
+  },
+  {
+    "time": 1774148400000,
+    "openInterest": 87319.601,
+    "openInterestValue": 6045790874.2375
+  },
+  {
+    "time": 1774152000000,
+    "openInterest": 87416.777,
+    "openInterestValue": 6058683042.6195345
+  },
+  {
+    "time": 1774155600000,
+    "openInterest": 87651.771,
+    "openInterestValue": 6076906048.6071
+  },
+  {
+    "time": 1774159200000,
+    "openInterest": 87785.22,
+    "openInterestValue": 6067398379.608
+  },
+  {
+    "time": 1774162800000,
+    "openInterest": 87773.644,
+    "openInterestValue": 6067656530.464128
+  },
+  {
+    "time": 1774166400000,
+    "openInterest": 87800.538,
+    "openInterestValue": 6048087379.8072
+  },
+  {
+    "time": 1774170000000,
+    "openInterest": 88223.616,
+    "openInterestValue": 6065970800.999673
+  },
+  {
+    "time": 1774173600000,
+    "openInterest": 88194.447,
+    "openInterestValue": 6066305106.3351
+  },
+  {
+    "time": 1774177200000,
+    "openInterest": 88306.699,
+    "openInterestValue": 6058552219.0964365
+  },
+  {
+    "time": 1774180800000,
+    "openInterest": 88532.338,
+    "openInterestValue": 6035936553.349427
+  },
+  {
+    "time": 1774184400000,
+    "openInterest": 88061.14,
+    "openInterestValue": 6042389820.5576725
+  },
+  {
+    "time": 1774188000000,
+    "openInterest": 88015.687,
+    "openInterestValue": 6043192275.6948
+  },
+  {
+    "time": 1774191600000,
+    "openInterest": 87915.877,
+    "openInterestValue": 6037732069.9775305
+  },
+  {
+    "time": 1774195200000,
+    "openInterest": 87793.122,
+    "openInterestValue": 6042070859.736548
+  },
+  {
+    "time": 1774198800000,
+    "openInterest": 87703.399,
+    "openInterestValue": 6030822060.317686
+  },
+  {
+    "time": 1774202400000,
+    "openInterest": 87527.089,
+    "openInterestValue": 6007867525.173599
+  },
+  {
+    "time": 1774206000000,
+    "openInterest": 87340.252,
+    "openInterestValue": 5990472079.860022
+  },
+  {
+    "time": 1774209600000,
+    "openInterest": 87571.499,
+    "openInterestValue": 5969801629.7294
+  },
+  {
+    "time": 1774213200000,
+    "openInterest": 87622.947,
+    "openInterestValue": 5970962409.511329
+  },
+  {
+    "time": 1774216800000,
+    "openInterest": 86402.562,
+    "openInterestValue": 5863701471.550406
+  },
+  {
+    "time": 1774220400000,
+    "openInterest": 86527.218,
+    "openInterestValue": 5909938780.227
+  },
+  {
+    "time": 1774224000000,
+    "openInterest": 86672.012,
+    "openInterestValue": 5879387266.8188
+  },
+  {
+    "time": 1774227600000,
+    "openInterest": 87267.317,
+    "openInterestValue": 5902979490.1725
+  },
+  {
+    "time": 1774231200000,
+    "openInterest": 87656.001,
+    "openInterestValue": 5949703661.4756
+  },
+  {
+    "time": 1774234800000,
+    "openInterest": 87743.196,
+    "openInterestValue": 5991711917.202634
+  },
+  {
+    "time": 1774238400000,
+    "openInterest": 87645.784,
+    "openInterestValue": 5963866136.8584
+  },
+  {
+    "time": 1774242000000,
+    "openInterest": 87924.073,
+    "openInterestValue": 6023339604.84833
+  },
+  {
+    "time": 1774245600000,
+    "openInterest": 87764.017,
+    "openInterestValue": 6043929077.191957
+  },
+  {
+    "time": 1774249200000,
+    "openInterest": 88138.335,
+    "openInterestValue": 5980435634.95959
+  },
+  {
+    "time": 1774252800000,
+    "openInterest": 87787.727,
+    "openInterestValue": 5995102885.7843
+  },
+  {
+    "time": 1774256400000,
+    "openInterest": 87721.99,
+    "openInterestValue": 6000192888.199
+  },
+  {
+    "time": 1774260000000,
+    "openInterest": 87468.681,
+    "openInterestValue": 5974548255.705
+  },
+  {
+    "time": 1774263600000,
+    "openInterest": 87769.257,
+    "openInterestValue": 6013256112.5097
+  },
+  {
+    "time": 1774267200000,
+    "openInterest": 87060.591,
+    "openInterestValue": 6100927623.3888
+  },
+  {
+    "time": 1774270800000,
+    "openInterest": 86601.991,
+    "openInterestValue": 6124597608.872789
+  },
+  {
+    "time": 1774274400000,
+    "openInterest": 86661.146,
+    "openInterestValue": 6191236926.4174
+  },
+  {
+    "time": 1774278000000,
+    "openInterest": 87451.627,
+    "openInterestValue": 6245654440.609598
+  },
+  {
+    "time": 1774281600000,
+    "openInterest": 87336.137,
+    "openInterestValue": 6123319970.9577
+  },
+  {
+    "time": 1774285200000,
+    "openInterest": 85932.033,
+    "openInterestValue": 6061164388.4352
+  },
+  {
+    "time": 1774288800000,
+    "openInterest": 85644.841,
+    "openInterestValue": 6085378618.781327
+  },
+  {
+    "time": 1774292400000,
+    "openInterest": 85772.763,
+    "openInterestValue": 6094650848.09047
+  },
+  {
+    "time": 1774296000000,
+    "openInterest": 85755.624,
+    "openInterestValue": 6061015965.405142
+  },
+  {
+    "time": 1774299600000,
+    "openInterest": 85322.653,
+    "openInterestValue": 6047371015.3545
+  },
+  {
+    "time": 1774303200000,
+    "openInterest": 85323.94,
+    "openInterestValue": 6042095357.584
+  },
+  {
+    "time": 1774306800000,
+    "openInterest": 85387.977,
+    "openInterestValue": 6041799249.276256
+  },
+  {
+    "time": 1774310400000,
+    "openInterest": 85432.91,
+    "openInterestValue": 6054518040.664285
+  },
+  {
+    "time": 1774314000000,
+    "openInterest": 85518.118,
+    "openInterestValue": 6042353974.017657
+  },
+  {
+    "time": 1774317600000,
+    "openInterest": 85275.744,
+    "openInterestValue": 6010234437.12
+  },
+  {
+    "time": 1774321200000,
+    "openInterest": 85370.996,
+    "openInterestValue": 6012040060.786078
+  },
+  {
+    "time": 1774324800000,
+    "openInterest": 85407.354,
+    "openInterestValue": 6022251885.9834
+  },
+  {
+    "time": 1774328400000,
+    "openInterest": 85666.046,
+    "openInterestValue": 6025232176.988235
+  },
+  {
+    "time": 1774332000000,
+    "openInterest": 85456.678,
+    "openInterestValue": 6003297446.8288
+  },
+  {
+    "time": 1774335600000,
+    "openInterest": 85526.453,
+    "openInterestValue": 6030319122.269465
+  },
+  {
+    "time": 1774339200000,
+    "openInterest": 85600.72,
+    "openInterestValue": 6100420911.52
+  },
+  {
+    "time": 1774342800000,
+    "openInterest": 85693.227,
+    "openInterestValue": 6080691897.462177
+  },
+  {
+    "time": 1774346400000,
+    "openInterest": 85949.528,
+    "openInterestValue": 6127505155.2232
+  },
+  {
+    "time": 1774350000000,
+    "openInterest": 85962.905,
+    "openInterestValue": 6123644904.2895
+  },
+  {
+    "time": 1774353600000,
+    "openInterest": 85782.611,
+    "openInterestValue": 6100623573.650608
+  },
+  {
+    "time": 1774357200000,
+    "openInterest": 86050.261,
+    "openInterestValue": 6103063131.2684
+  },
+  {
+    "time": 1774360800000,
+    "openInterest": 86295.495,
+    "openInterestValue": 6046215447.08705
+  },
+  {
+    "time": 1774364400000,
+    "openInterest": 86297.365,
+    "openInterestValue": 6027304160.415967
+  },
+  {
+    "time": 1774368000000,
+    "openInterest": 85604.732,
+    "openInterestValue": 5978848494.71
+  },
+  {
+    "time": 1774371600000,
+    "openInterest": 85836.009,
+    "openInterestValue": 5960443881.3591
+  },
+  {
+    "time": 1774375200000,
+    "openInterest": 85671.263,
+    "openInterestValue": 5928871188.7887
+  },
+  {
+    "time": 1774378800000,
+    "openInterest": 85608.081,
+    "openInterestValue": 5941175138.9757
+  },
+  {
+    "time": 1774382400000,
+    "openInterest": 85544.399,
+    "openInterestValue": 5931828269.8979
+  },
+  {
+    "time": 1774386000000,
+    "openInterest": 85844.148,
+    "openInterestValue": 6014133467.934349
+  },
+  {
+    "time": 1774389600000,
+    "openInterest": 85500.033,
+    "openInterestValue": 6010783483.76583
+  },
+  {
+    "time": 1774393200000,
+    "openInterest": 85406.792,
+    "openInterestValue": 6002483673.369598
+  },
+  {
+    "time": 1774396800000,
+    "openInterest": 86159.608,
+    "openInterestValue": 6076509318.67778
+  },
+  {
+    "time": 1774400400000,
+    "openInterest": 86157.125,
+    "openInterestValue": 6100303541.35
+  },
+  {
+    "time": 1774404000000,
+    "openInterest": 85902.039,
+    "openInterestValue": 6069853629.642515
+  },
+  {
+    "time": 1774407600000,
+    "openInterest": 85936.614,
+    "openInterestValue": 6058522693.3386
+  },
+  {
+    "time": 1774411200000,
+    "openInterest": 85974.143,
+    "openInterestValue": 6077443389.3556
+  },
+  {
+    "time": 1774414800000,
+    "openInterest": 85869.823,
+    "openInterestValue": 6091442090.9563
+  },
+  {
+    "time": 1774418400000,
+    "openInterest": 86446.478,
+    "openInterestValue": 6144694875.948043
+  },
+  {
+    "time": 1774422000000,
+    "openInterest": 86782.872,
+    "openInterestValue": 6157227411.8256
+  },
+  {
+    "time": 1774425600000,
+    "openInterest": 86917.081,
+    "openInterestValue": 6162421042.9
+  },
+  {
+    "time": 1774429200000,
+    "openInterest": 87172.43,
+    "openInterestValue": 6207627031.880912
+  },
+  {
+    "time": 1774432800000,
+    "openInterest": 87256.379,
+    "openInterestValue": 6221576396.778867
+  },
+  {
+    "time": 1774436400000,
+    "openInterest": 87415.668,
+    "openInterestValue": 6246959657.5836
+  },
+  {
+    "time": 1774440000000,
+    "openInterest": 87680.491,
+    "openInterestValue": 6282324716.2482
+  },
+  {
+    "time": 1774443600000,
+    "openInterest": 87602.047,
+    "openInterestValue": 6280725121.9167
+  },
+  {
+    "time": 1774447200000,
+    "openInterest": 87884.682,
+    "openInterestValue": 6287858977.6494
+  },
+  {
+    "time": 1774450800000,
+    "openInterest": 87968.698,
+    "openInterestValue": 6263592332.9776945
+  },
+  {
+    "time": 1774454400000,
+    "openInterest": 87083.093,
+    "openInterestValue": 6166101316.00866
+  },
+  {
+    "time": 1774458000000,
+    "openInterest": 87571.879,
+    "openInterestValue": 6243008011.0979
+  },
+  {
+    "time": 1774461600000,
+    "openInterest": 87378.194,
+    "openInterestValue": 6182243146.6238
+  },
+  {
+    "time": 1774465200000,
+    "openInterest": 86972.562,
+    "openInterestValue": 6156500654.5254
+  },
+  {
+    "time": 1774468800000,
+    "openInterest": 86847.445,
+    "openInterestValue": 6152794088.47
+  },
+  {
+    "time": 1774472400000,
+    "openInterest": 86502.053,
+    "openInterestValue": 6139162031.432766
+  },
+  {
+    "time": 1774476000000,
+    "openInterest": 86317.118,
+    "openInterestValue": 6128515378
+  },
+  {
+    "time": 1774479600000,
+    "openInterest": 86309.546,
+    "openInterestValue": 6156846971.339037
+  },
+  {
+    "time": 1774483200000,
+    "openInterest": 86309.142,
+    "openInterestValue": 6153626051.745
+  },
+  {
+    "time": 1774486800000,
+    "openInterest": 86390.072,
+    "openInterestValue": 6156707243.64063
+  },
+  {
+    "time": 1774490400000,
+    "openInterest": 86573.87,
+    "openInterestValue": 6165919304.396219
+  },
+  {
+    "time": 1774494000000,
+    "openInterest": 86640.421,
+    "openInterestValue": 6140771038.211446
+  },
+  {
+    "time": 1774497600000,
+    "openInterest": 86786.307,
+    "openInterestValue": 6149401953.673776
+  },
+  {
+    "time": 1774501200000,
+    "openInterest": 86807.15,
+    "openInterestValue": 6140790318.761687
+  },
+  {
+    "time": 1774504800000,
+    "openInterest": 86182.257,
+    "openInterestValue": 6031775512.2702
+  },
+  {
+    "time": 1774508400000,
+    "openInterest": 86616.082,
+    "openInterestValue": 6068232679.428063
+  },
+  {
+    "time": 1774512000000,
+    "openInterest": 86774.968,
+    "openInterestValue": 6078933608.272
+  },
+  {
+    "time": 1774515600000,
+    "openInterest": 86968.368,
+    "openInterestValue": 6086752982.596616
+  },
+  {
+    "time": 1774519200000,
+    "openInterest": 86981.188,
+    "openInterestValue": 6049506832.9248
+  },
+  {
+    "time": 1774522800000,
+    "openInterest": 87167.444,
+    "openInterestValue": 6056394009.12
+  },
+  {
+    "time": 1774526400000,
+    "openInterest": 86870.506,
+    "openInterestValue": 6014861713.1364
+  },
+  {
+    "time": 1774530000000,
+    "openInterest": 87077.391,
+    "openInterestValue": 6042974808.720402
+  },
+  {
+    "time": 1774533600000,
+    "openInterest": 86992.147,
+    "openInterestValue": 6056828234.875
+  },
+  {
+    "time": 1774537200000,
+    "openInterest": 87545.388,
+    "openInterestValue": 6080438659.9236
+  },
+  {
+    "time": 1774540800000,
+    "openInterest": 86641.975,
+    "openInterestValue": 5983798040.4125
+  },
+  {
+    "time": 1774544400000,
+    "openInterest": 87021.385,
+    "openInterestValue": 5996191129.148
+  }
+]

@@ -1,0 +1,3002 @@
+[
+  {
+    "time": 1772748000000,
+    "ratio": 1.1645,
+    "longAccount": 0.538,
+    "shortAccount": 0.462
+  },
+  {
+    "time": 1772751600000,
+    "ratio": 1.1706,
+    "longAccount": 0.5393,
+    "shortAccount": 0.4607
+  },
+  {
+    "time": 1772755200000,
+    "ratio": 1.1673,
+    "longAccount": 0.5386,
+    "shortAccount": 0.4614
+  },
+  {
+    "time": 1772758800000,
+    "ratio": 1.1844,
+    "longAccount": 0.5422,
+    "shortAccount": 0.4578
+  },
+  {
+    "time": 1772762400000,
+    "ratio": 1.2124,
+    "longAccount": 0.548,
+    "shortAccount": 0.452
+  },
+  {
+    "time": 1772766000000,
+    "ratio": 1.2188,
+    "longAccount": 0.5493,
+    "shortAccount": 0.4507
+  },
+  {
+    "time": 1772769600000,
+    "ratio": 1.2202,
+    "longAccount": 0.5496,
+    "shortAccount": 0.4504
+  },
+  {
+    "time": 1772773200000,
+    "ratio": 1.2356,
+    "longAccount": 0.5527,
+    "shortAccount": 0.4473
+  },
+  {
+    "time": 1772776800000,
+    "ratio": 1.2614,
+    "longAccount": 0.5578,
+    "shortAccount": 0.4422
+  },
+  {
+    "time": 1772780400000,
+    "ratio": 1.3052,
+    "longAccount": 0.5662,
+    "shortAccount": 0.4338
+  },
+  {
+    "time": 1772784000000,
+    "ratio": 1.3068,
+    "longAccount": 0.5665,
+    "shortAccount": 0.4335
+  },
+  {
+    "time": 1772787600000,
+    "ratio": 1.2665,
+    "longAccount": 0.5588,
+    "shortAccount": 0.4412
+  },
+  {
+    "time": 1772791200000,
+    "ratio": 1.3063,
+    "longAccount": 0.5664,
+    "shortAccount": 0.4336
+  },
+  {
+    "time": 1772794800000,
+    "ratio": 1.3191,
+    "longAccount": 0.5688,
+    "shortAccount": 0.4312
+  },
+  {
+    "time": 1772798400000,
+    "ratio": 1.3267,
+    "longAccount": 0.5702,
+    "shortAccount": 0.4298
+  },
+  {
+    "time": 1772802000000,
+    "ratio": 1.337,
+    "longAccount": 0.5721,
+    "shortAccount": 0.4279
+  },
+  {
+    "time": 1772805600000,
+    "ratio": 1.401,
+    "longAccount": 0.5835,
+    "shortAccount": 0.4165
+  },
+  {
+    "time": 1772809200000,
+    "ratio": 1.5419,
+    "longAccount": 0.6066,
+    "shortAccount": 0.3934
+  },
+  {
+    "time": 1772812800000,
+    "ratio": 1.6295,
+    "longAccount": 0.6197,
+    "shortAccount": 0.3803
+  },
+  {
+    "time": 1772816400000,
+    "ratio": 1.6903,
+    "longAccount": 0.6283,
+    "shortAccount": 0.3717
+  },
+  {
+    "time": 1772820000000,
+    "ratio": 1.6889,
+    "longAccount": 0.6281,
+    "shortAccount": 0.3719
+  },
+  {
+    "time": 1772823600000,
+    "ratio": 1.7211,
+    "longAccount": 0.6325,
+    "shortAccount": 0.3675
+  },
+  {
+    "time": 1772827200000,
+    "ratio": 1.7488,
+    "longAccount": 0.6362,
+    "shortAccount": 0.3638
+  },
+  {
+    "time": 1772830800000,
+    "ratio": 1.7724,
+    "longAccount": 0.6393,
+    "shortAccount": 0.3607
+  },
+  {
+    "time": 1772834400000,
+    "ratio": 1.7964,
+    "longAccount": 0.6424,
+    "shortAccount": 0.3576
+  },
+  {
+    "time": 1772838000000,
+    "ratio": 1.8265,
+    "longAccount": 0.6462,
+    "shortAccount": 0.3538
+  },
+  {
+    "time": 1772841600000,
+    "ratio": 1.8289,
+    "longAccount": 0.6465,
+    "shortAccount": 0.3535
+  },
+  {
+    "time": 1772845200000,
+    "ratio": 1.8752,
+    "longAccount": 0.6522,
+    "shortAccount": 0.3478
+  },
+  {
+    "time": 1772848800000,
+    "ratio": 1.891,
+    "longAccount": 0.6541,
+    "shortAccount": 0.3459
+  },
+  {
+    "time": 1772852400000,
+    "ratio": 1.8802,
+    "longAccount": 0.6528,
+    "shortAccount": 0.3472
+  },
+  {
+    "time": 1772856000000,
+    "ratio": 1.9163,
+    "longAccount": 0.6571,
+    "shortAccount": 0.3429
+  },
+  {
+    "time": 1772859600000,
+    "ratio": 1.9189,
+    "longAccount": 0.6574,
+    "shortAccount": 0.3426
+  },
+  {
+    "time": 1772863200000,
+    "ratio": 1.9189,
+    "longAccount": 0.6574,
+    "shortAccount": 0.3426
+  },
+  {
+    "time": 1772866800000,
+    "ratio": 1.8752,
+    "longAccount": 0.6522,
+    "shortAccount": 0.3478
+  },
+  {
+    "time": 1772870400000,
+    "ratio": 1.8736,
+    "longAccount": 0.652,
+    "shortAccount": 0.348
+  },
+  {
+    "time": 1772874000000,
+    "ratio": 1.8818,
+    "longAccount": 0.653,
+    "shortAccount": 0.347
+  },
+  {
+    "time": 1772877600000,
+    "ratio": 1.9036,
+    "longAccount": 0.6556,
+    "shortAccount": 0.3444
+  },
+  {
+    "time": 1772881200000,
+    "ratio": 1.9011,
+    "longAccount": 0.6553,
+    "shortAccount": 0.3447
+  },
+  {
+    "time": 1772884800000,
+    "ratio": 1.9274,
+    "longAccount": 0.6584,
+    "shortAccount": 0.3416
+  },
+  {
+    "time": 1772888400000,
+    "ratio": 1.9265,
+    "longAccount": 0.6583,
+    "shortAccount": 0.3417
+  },
+  {
+    "time": 1772892000000,
+    "ratio": 1.9412,
+    "longAccount": 0.66,
+    "shortAccount": 0.34
+  },
+  {
+    "time": 1772895600000,
+    "ratio": 1.9351,
+    "longAccount": 0.6593,
+    "shortAccount": 0.3407
+  },
+  {
+    "time": 1772899200000,
+    "ratio": 1.9412,
+    "longAccount": 0.66,
+    "shortAccount": 0.34
+  },
+  {
+    "time": 1772902800000,
+    "ratio": 1.9455,
+    "longAccount": 0.6605,
+    "shortAccount": 0.3395
+  },
+  {
+    "time": 1772906400000,
+    "ratio": 1.9603,
+    "longAccount": 0.6622,
+    "shortAccount": 0.3378
+  },
+  {
+    "time": 1772910000000,
+    "ratio": 1.9499,
+    "longAccount": 0.661,
+    "shortAccount": 0.339
+  },
+  {
+    "time": 1772913600000,
+    "ratio": 1.8752,
+    "longAccount": 0.6522,
+    "shortAccount": 0.3478
+  },
+  {
+    "time": 1772917200000,
+    "ratio": 1.9053,
+    "longAccount": 0.6558,
+    "shortAccount": 0.3442
+  },
+  {
+    "time": 1772920800000,
+    "ratio": 1.9061,
+    "longAccount": 0.6559,
+    "shortAccount": 0.3441
+  },
+  {
+    "time": 1772924400000,
+    "ratio": 1.896,
+    "longAccount": 0.6547,
+    "shortAccount": 0.3453
+  },
+  {
+    "time": 1772928000000,
+    "ratio": 1.9104,
+    "longAccount": 0.6564,
+    "shortAccount": 0.3436
+  },
+  {
+    "time": 1772931600000,
+    "ratio": 1.9214,
+    "longAccount": 0.6577,
+    "shortAccount": 0.3423
+  },
+  {
+    "time": 1772935200000,
+    "ratio": 1.9223,
+    "longAccount": 0.6578,
+    "shortAccount": 0.3422
+  },
+  {
+    "time": 1772938800000,
+    "ratio": 1.907,
+    "longAccount": 0.656,
+    "shortAccount": 0.344
+  },
+  {
+    "time": 1772942400000,
+    "ratio": 1.918,
+    "longAccount": 0.6573,
+    "shortAccount": 0.3427
+  },
+  {
+    "time": 1772946000000,
+    "ratio": 1.8977,
+    "longAccount": 0.6549,
+    "shortAccount": 0.3451
+  },
+  {
+    "time": 1772949600000,
+    "ratio": 1.9036,
+    "longAccount": 0.6556,
+    "shortAccount": 0.3444
+  },
+  {
+    "time": 1772953200000,
+    "ratio": 1.9112,
+    "longAccount": 0.6565,
+    "shortAccount": 0.3435
+  },
+  {
+    "time": 1772956800000,
+    "ratio": 1.9394,
+    "longAccount": 0.6598,
+    "shortAccount": 0.3402
+  },
+  {
+    "time": 1772960400000,
+    "ratio": 2.0202,
+    "longAccount": 0.6689,
+    "shortAccount": 0.3311
+  },
+  {
+    "time": 1772964000000,
+    "ratio": 2.0684,
+    "longAccount": 0.6741,
+    "shortAccount": 0.3259
+  },
+  {
+    "time": 1772967600000,
+    "ratio": 2.1299,
+    "longAccount": 0.6805,
+    "shortAccount": 0.3195
+  },
+  {
+    "time": 1772971200000,
+    "ratio": 2.0836,
+    "longAccount": 0.6757,
+    "shortAccount": 0.3243
+  },
+  {
+    "time": 1772974800000,
+    "ratio": 2.0637,
+    "longAccount": 0.6736,
+    "shortAccount": 0.3264
+  },
+  {
+    "time": 1772978400000,
+    "ratio": 2.1008,
+    "longAccount": 0.6775,
+    "shortAccount": 0.3225
+  },
+  {
+    "time": 1772982000000,
+    "ratio": 2.1046,
+    "longAccount": 0.6779,
+    "shortAccount": 0.3221
+  },
+  {
+    "time": 1772985600000,
+    "ratio": 2.0979,
+    "longAccount": 0.6772,
+    "shortAccount": 0.3228
+  },
+  {
+    "time": 1772989200000,
+    "ratio": 2.0912,
+    "longAccount": 0.6765,
+    "shortAccount": 0.3235
+  },
+  {
+    "time": 1772992800000,
+    "ratio": 2.0979,
+    "longAccount": 0.6772,
+    "shortAccount": 0.3228
+  },
+  {
+    "time": 1772996400000,
+    "ratio": 2.1124,
+    "longAccount": 0.6787,
+    "shortAccount": 0.3213
+  },
+  {
+    "time": 1773000000000,
+    "ratio": 2.1407,
+    "longAccount": 0.6816,
+    "shortAccount": 0.3184
+  },
+  {
+    "time": 1773003600000,
+    "ratio": 2.1606,
+    "longAccount": 0.6836,
+    "shortAccount": 0.3164
+  },
+  {
+    "time": 1773007200000,
+    "ratio": 2.1736,
+    "longAccount": 0.6849,
+    "shortAccount": 0.3151
+  },
+  {
+    "time": 1773010800000,
+    "ratio": 2.1706,
+    "longAccount": 0.6846,
+    "shortAccount": 0.3154
+  },
+  {
+    "time": 1773014400000,
+    "ratio": 2.1387,
+    "longAccount": 0.6814,
+    "shortAccount": 0.3186
+  },
+  {
+    "time": 1773018000000,
+    "ratio": 2.1616,
+    "longAccount": 0.6837,
+    "shortAccount": 0.3163
+  },
+  {
+    "time": 1773021600000,
+    "ratio": 2.1827,
+    "longAccount": 0.6858,
+    "shortAccount": 0.3142
+  },
+  {
+    "time": 1773025200000,
+    "ratio": 2.1466,
+    "longAccount": 0.6822,
+    "shortAccount": 0.3178
+  },
+  {
+    "time": 1773028800000,
+    "ratio": 2.1466,
+    "longAccount": 0.6822,
+    "shortAccount": 0.3178
+  },
+  {
+    "time": 1773032400000,
+    "ratio": 2.1201,
+    "longAccount": 0.6795,
+    "shortAccount": 0.3205
+  },
+  {
+    "time": 1773036000000,
+    "ratio": 2.1027,
+    "longAccount": 0.6777,
+    "shortAccount": 0.3223
+  },
+  {
+    "time": 1773039600000,
+    "ratio": 2.0902,
+    "longAccount": 0.6764,
+    "shortAccount": 0.3236
+  },
+  {
+    "time": 1773043200000,
+    "ratio": 2.1319,
+    "longAccount": 0.6807,
+    "shortAccount": 0.3193
+  },
+  {
+    "time": 1773046800000,
+    "ratio": 2.0647,
+    "longAccount": 0.6737,
+    "shortAccount": 0.3263
+  },
+  {
+    "time": 1773050400000,
+    "ratio": 1.9967,
+    "longAccount": 0.6663,
+    "shortAccount": 0.3337
+  },
+  {
+    "time": 1773054000000,
+    "ratio": 1.9727,
+    "longAccount": 0.6636,
+    "shortAccount": 0.3364
+  },
+  {
+    "time": 1773057600000,
+    "ratio": 2.0239,
+    "longAccount": 0.6693,
+    "shortAccount": 0.3307
+  },
+  {
+    "time": 1773061200000,
+    "ratio": 1.9438,
+    "longAccount": 0.6603,
+    "shortAccount": 0.3397
+  },
+  {
+    "time": 1773064800000,
+    "ratio": 1.7152,
+    "longAccount": 0.6317,
+    "shortAccount": 0.3683
+  },
+  {
+    "time": 1773068400000,
+    "ratio": 1.5927,
+    "longAccount": 0.6143,
+    "shortAccount": 0.3857
+  },
+  {
+    "time": 1773072000000,
+    "ratio": 1.5253,
+    "longAccount": 0.604,
+    "shortAccount": 0.396
+  },
+  {
+    "time": 1773075600000,
+    "ratio": 1.5151,
+    "longAccount": 0.6024,
+    "shortAccount": 0.3976
+  },
+  {
+    "time": 1773079200000,
+    "ratio": 1.5284,
+    "longAccount": 0.6045,
+    "shortAccount": 0.3955
+  },
+  {
+    "time": 1773082800000,
+    "ratio": 1.5323,
+    "longAccount": 0.6051,
+    "shortAccount": 0.3949
+  },
+  {
+    "time": 1773086400000,
+    "ratio": 1.5497,
+    "longAccount": 0.6078,
+    "shortAccount": 0.3922
+  },
+  {
+    "time": 1773090000000,
+    "ratio": 1.524,
+    "longAccount": 0.6038,
+    "shortAccount": 0.3962
+  },
+  {
+    "time": 1773093600000,
+    "ratio": 1.5157,
+    "longAccount": 0.6025,
+    "shortAccount": 0.3975
+  },
+  {
+    "time": 1773097200000,
+    "ratio": 1.4956,
+    "longAccount": 0.5993,
+    "shortAccount": 0.4007
+  },
+  {
+    "time": 1773100800000,
+    "ratio": 1.4826,
+    "longAccount": 0.5972,
+    "shortAccount": 0.4028
+  },
+  {
+    "time": 1773104400000,
+    "ratio": 1.4907,
+    "longAccount": 0.5985,
+    "shortAccount": 0.4015
+  },
+  {
+    "time": 1773108000000,
+    "ratio": 1.4826,
+    "longAccount": 0.5972,
+    "shortAccount": 0.4028
+  },
+  {
+    "time": 1773111600000,
+    "ratio": 1.3613,
+    "longAccount": 0.5765,
+    "shortAccount": 0.4235
+  },
+  {
+    "time": 1773115200000,
+    "ratio": 1.3563,
+    "longAccount": 0.5756,
+    "shortAccount": 0.4244
+  },
+  {
+    "time": 1773118800000,
+    "ratio": 1.3872,
+    "longAccount": 0.5811,
+    "shortAccount": 0.4189
+  },
+  {
+    "time": 1773122400000,
+    "ratio": 1.3207,
+    "longAccount": 0.5691,
+    "shortAccount": 0.4309
+  },
+  {
+    "time": 1773126000000,
+    "ratio": 1.3036,
+    "longAccount": 0.5659,
+    "shortAccount": 0.4341
+  },
+  {
+    "time": 1773129600000,
+    "ratio": 1.2676,
+    "longAccount": 0.559,
+    "shortAccount": 0.441
+  },
+  {
+    "time": 1773133200000,
+    "ratio": 1.2119,
+    "longAccount": 0.5479,
+    "shortAccount": 0.4521
+  },
+  {
+    "time": 1773136800000,
+    "ratio": 1.1997,
+    "longAccount": 0.5454,
+    "shortAccount": 0.4546
+  },
+  {
+    "time": 1773140400000,
+    "ratio": 1.1777,
+    "longAccount": 0.5408,
+    "shortAccount": 0.4592
+  },
+  {
+    "time": 1773144000000,
+    "ratio": 1.1697,
+    "longAccount": 0.5391,
+    "shortAccount": 0.4609
+  },
+  {
+    "time": 1773147600000,
+    "ratio": 1.164,
+    "longAccount": 0.5379,
+    "shortAccount": 0.4621
+  },
+  {
+    "time": 1773151200000,
+    "ratio": 1.1445,
+    "longAccount": 0.5337,
+    "shortAccount": 0.4663
+  },
+  {
+    "time": 1773154800000,
+    "ratio": 1.1796,
+    "longAccount": 0.5412,
+    "shortAccount": 0.4588
+  },
+  {
+    "time": 1773158400000,
+    "ratio": 1.0964,
+    "longAccount": 0.523,
+    "shortAccount": 0.477
+  },
+  {
+    "time": 1773162000000,
+    "ratio": 1.0773,
+    "longAccount": 0.5186,
+    "shortAccount": 0.4814
+  },
+  {
+    "time": 1773165600000,
+    "ratio": 1.0734,
+    "longAccount": 0.5177,
+    "shortAccount": 0.4823
+  },
+  {
+    "time": 1773169200000,
+    "ratio": 1.1151,
+    "longAccount": 0.5272,
+    "shortAccount": 0.4728
+  },
+  {
+    "time": 1773172800000,
+    "ratio": 1.1418,
+    "longAccount": 0.5331,
+    "shortAccount": 0.4669
+  },
+  {
+    "time": 1773176400000,
+    "ratio": 1.1659,
+    "longAccount": 0.5383,
+    "shortAccount": 0.4617
+  },
+  {
+    "time": 1773180000000,
+    "ratio": 1.1654,
+    "longAccount": 0.5382,
+    "shortAccount": 0.4618
+  },
+  {
+    "time": 1773183600000,
+    "ratio": 1.1915,
+    "longAccount": 0.5437,
+    "shortAccount": 0.4563
+  },
+  {
+    "time": 1773187200000,
+    "ratio": 1.2227,
+    "longAccount": 0.5501,
+    "shortAccount": 0.4499
+  },
+  {
+    "time": 1773190800000,
+    "ratio": 1.2442,
+    "longAccount": 0.5544,
+    "shortAccount": 0.4456
+  },
+  {
+    "time": 1773194400000,
+    "ratio": 1.2442,
+    "longAccount": 0.5544,
+    "shortAccount": 0.4456
+  },
+  {
+    "time": 1773198000000,
+    "ratio": 1.2007,
+    "longAccount": 0.5456,
+    "shortAccount": 0.4544
+  },
+  {
+    "time": 1773201600000,
+    "ratio": 1.2051,
+    "longAccount": 0.5465,
+    "shortAccount": 0.4535
+  },
+  {
+    "time": 1773205200000,
+    "ratio": 1.2416,
+    "longAccount": 0.5539,
+    "shortAccount": 0.4461
+  },
+  {
+    "time": 1773208800000,
+    "ratio": 1.2406,
+    "longAccount": 0.5537,
+    "shortAccount": 0.4463
+  },
+  {
+    "time": 1773212400000,
+    "ratio": 1.2341,
+    "longAccount": 0.5524,
+    "shortAccount": 0.4476
+  },
+  {
+    "time": 1773216000000,
+    "ratio": 1.2386,
+    "longAccount": 0.5533,
+    "shortAccount": 0.4467
+  },
+  {
+    "time": 1773219600000,
+    "ratio": 1.2492,
+    "longAccount": 0.5554,
+    "shortAccount": 0.4446
+  },
+  {
+    "time": 1773223200000,
+    "ratio": 1.2447,
+    "longAccount": 0.5545,
+    "shortAccount": 0.4455
+  },
+  {
+    "time": 1773226800000,
+    "ratio": 1.2538,
+    "longAccount": 0.5563,
+    "shortAccount": 0.4437
+  },
+  {
+    "time": 1773230400000,
+    "ratio": 1.2361,
+    "longAccount": 0.5528,
+    "shortAccount": 0.4472
+  },
+  {
+    "time": 1773234000000,
+    "ratio": 1.2645,
+    "longAccount": 0.5584,
+    "shortAccount": 0.4416
+  },
+  {
+    "time": 1773237600000,
+    "ratio": 1.2655,
+    "longAccount": 0.5586,
+    "shortAccount": 0.4414
+  },
+  {
+    "time": 1773241200000,
+    "ratio": 1.1993,
+    "longAccount": 0.5453,
+    "shortAccount": 0.4547
+  },
+  {
+    "time": 1773244800000,
+    "ratio": 1.2134,
+    "longAccount": 0.5482,
+    "shortAccount": 0.4518
+  },
+  {
+    "time": 1773248400000,
+    "ratio": 1.1716,
+    "longAccount": 0.5395,
+    "shortAccount": 0.4605
+  },
+  {
+    "time": 1773252000000,
+    "ratio": 1.1268,
+    "longAccount": 0.5298,
+    "shortAccount": 0.4702
+  },
+  {
+    "time": 1773255600000,
+    "ratio": 1.139,
+    "longAccount": 0.5325,
+    "shortAccount": 0.4675
+  },
+  {
+    "time": 1773259200000,
+    "ratio": 1.1436,
+    "longAccount": 0.5335,
+    "shortAccount": 0.4665
+  },
+  {
+    "time": 1773262800000,
+    "ratio": 1.1331,
+    "longAccount": 0.5312,
+    "shortAccount": 0.4688
+  },
+  {
+    "time": 1773266400000,
+    "ratio": 1.1308,
+    "longAccount": 0.5307,
+    "shortAccount": 0.4693
+  },
+  {
+    "time": 1773270000000,
+    "ratio": 1.1245,
+    "longAccount": 0.5293,
+    "shortAccount": 0.4707
+  },
+  {
+    "time": 1773273600000,
+    "ratio": 1.1245,
+    "longAccount": 0.5293,
+    "shortAccount": 0.4707
+  },
+  {
+    "time": 1773277200000,
+    "ratio": 1.1313,
+    "longAccount": 0.5308,
+    "shortAccount": 0.4692
+  },
+  {
+    "time": 1773280800000,
+    "ratio": 1.1418,
+    "longAccount": 0.5331,
+    "shortAccount": 0.4669
+  },
+  {
+    "time": 1773284400000,
+    "ratio": 1.1848,
+    "longAccount": 0.5423,
+    "shortAccount": 0.4577
+  },
+  {
+    "time": 1773288000000,
+    "ratio": 1.2578,
+    "longAccount": 0.5571,
+    "shortAccount": 0.4429
+  },
+  {
+    "time": 1773291600000,
+    "ratio": 1.2717,
+    "longAccount": 0.5598,
+    "shortAccount": 0.4402
+  },
+  {
+    "time": 1773295200000,
+    "ratio": 1.2952,
+    "longAccount": 0.5643,
+    "shortAccount": 0.4357
+  },
+  {
+    "time": 1773298800000,
+    "ratio": 1.3191,
+    "longAccount": 0.5688,
+    "shortAccount": 0.4312
+  },
+  {
+    "time": 1773302400000,
+    "ratio": 1.3535,
+    "longAccount": 0.5751,
+    "shortAccount": 0.4249
+  },
+  {
+    "time": 1773306000000,
+    "ratio": 1.3315,
+    "longAccount": 0.5711,
+    "shortAccount": 0.4289
+  },
+  {
+    "time": 1773309600000,
+    "ratio": 1.3414,
+    "longAccount": 0.5729,
+    "shortAccount": 0.4271
+  },
+  {
+    "time": 1773313200000,
+    "ratio": 1.2983,
+    "longAccount": 0.5649,
+    "shortAccount": 0.4351
+  },
+  {
+    "time": 1773316800000,
+    "ratio": 1.2247,
+    "longAccount": 0.5505,
+    "shortAccount": 0.4495
+  },
+  {
+    "time": 1773320400000,
+    "ratio": 1.1949,
+    "longAccount": 0.5444,
+    "shortAccount": 0.4556
+  },
+  {
+    "time": 1773324000000,
+    "ratio": 1.1896,
+    "longAccount": 0.5433,
+    "shortAccount": 0.4567
+  },
+  {
+    "time": 1773327600000,
+    "ratio": 1.2941,
+    "longAccount": 0.5641,
+    "shortAccount": 0.4359
+  },
+  {
+    "time": 1773331200000,
+    "ratio": 1.1915,
+    "longAccount": 0.5437,
+    "shortAccount": 0.4563
+  },
+  {
+    "time": 1773334800000,
+    "ratio": 1.1701,
+    "longAccount": 0.5392,
+    "shortAccount": 0.4608
+  },
+  {
+    "time": 1773338400000,
+    "ratio": 1.1542,
+    "longAccount": 0.5358,
+    "shortAccount": 0.4642
+  },
+  {
+    "time": 1773342000000,
+    "ratio": 1.1777,
+    "longAccount": 0.5408,
+    "shortAccount": 0.4592
+  },
+  {
+    "time": 1773345600000,
+    "ratio": 1.1668,
+    "longAccount": 0.5385,
+    "shortAccount": 0.4615
+  },
+  {
+    "time": 1773349200000,
+    "ratio": 1.1418,
+    "longAccount": 0.5331,
+    "shortAccount": 0.4669
+  },
+  {
+    "time": 1773352800000,
+    "ratio": 1.1418,
+    "longAccount": 0.5331,
+    "shortAccount": 0.4669
+  },
+  {
+    "time": 1773356400000,
+    "ratio": 1.1487,
+    "longAccount": 0.5346,
+    "shortAccount": 0.4654
+  },
+  {
+    "time": 1773360000000,
+    "ratio": 1.1263,
+    "longAccount": 0.5297,
+    "shortAccount": 0.4703
+  },
+  {
+    "time": 1773363600000,
+    "ratio": 1.0648,
+    "longAccount": 0.5157,
+    "shortAccount": 0.4843
+  },
+  {
+    "time": 1773367200000,
+    "ratio": 1.0239,
+    "longAccount": 0.5059,
+    "shortAccount": 0.4941
+  },
+  {
+    "time": 1773370800000,
+    "ratio": 1.019,
+    "longAccount": 0.5047,
+    "shortAccount": 0.4953
+  },
+  {
+    "time": 1773374400000,
+    "ratio": 1.0416,
+    "longAccount": 0.5102,
+    "shortAccount": 0.4898
+  },
+  {
+    "time": 1773378000000,
+    "ratio": 1.0263,
+    "longAccount": 0.5065,
+    "shortAccount": 0.4935
+  },
+  {
+    "time": 1773381600000,
+    "ratio": 1.0165,
+    "longAccount": 0.5041,
+    "shortAccount": 0.4959
+  },
+  {
+    "time": 1773385200000,
+    "ratio": 1.0036,
+    "longAccount": 0.5009,
+    "shortAccount": 0.4991
+  },
+  {
+    "time": 1773388800000,
+    "ratio": 0.9837,
+    "longAccount": 0.4959,
+    "shortAccount": 0.5041
+  },
+  {
+    "time": 1773392400000,
+    "ratio": 0.9822,
+    "longAccount": 0.4955,
+    "shortAccount": 0.5045
+  },
+  {
+    "time": 1773396000000,
+    "ratio": 0.9755,
+    "longAccount": 0.4938,
+    "shortAccount": 0.5062
+  },
+  {
+    "time": 1773399600000,
+    "ratio": 0.9654,
+    "longAccount": 0.4912,
+    "shortAccount": 0.5088
+  },
+  {
+    "time": 1773403200000,
+    "ratio": 0.9316,
+    "longAccount": 0.4823,
+    "shortAccount": 0.5177
+  },
+  {
+    "time": 1773406800000,
+    "ratio": 0.9402,
+    "longAccount": 0.4846,
+    "shortAccount": 0.5154
+  },
+  {
+    "time": 1773410400000,
+    "ratio": 0.8965,
+    "longAccount": 0.4727,
+    "shortAccount": 0.5273
+  },
+  {
+    "time": 1773414000000,
+    "ratio": 0.8567,
+    "longAccount": 0.4614,
+    "shortAccount": 0.5386
+  },
+  {
+    "time": 1773417600000,
+    "ratio": 0.8772,
+    "longAccount": 0.4673,
+    "shortAccount": 0.5327
+  },
+  {
+    "time": 1773421200000,
+    "ratio": 0.9562,
+    "longAccount": 0.4888,
+    "shortAccount": 0.5112
+  },
+  {
+    "time": 1773424800000,
+    "ratio": 0.9861,
+    "longAccount": 0.4965,
+    "shortAccount": 0.5035
+  },
+  {
+    "time": 1773428400000,
+    "ratio": 1.0227,
+    "longAccount": 0.5056,
+    "shortAccount": 0.4944
+  },
+  {
+    "time": 1773432000000,
+    "ratio": 1.0392,
+    "longAccount": 0.5096,
+    "shortAccount": 0.4904
+  },
+  {
+    "time": 1773435600000,
+    "ratio": 1.0563,
+    "longAccount": 0.5137,
+    "shortAccount": 0.4863
+  },
+  {
+    "time": 1773439200000,
+    "ratio": 1.0597,
+    "longAccount": 0.5145,
+    "shortAccount": 0.4855
+  },
+  {
+    "time": 1773442800000,
+    "ratio": 1.0812,
+    "longAccount": 0.5195,
+    "shortAccount": 0.4805
+  },
+  {
+    "time": 1773446400000,
+    "ratio": 1.1066,
+    "longAccount": 0.5253,
+    "shortAccount": 0.4747
+  },
+  {
+    "time": 1773450000000,
+    "ratio": 1.1222,
+    "longAccount": 0.5288,
+    "shortAccount": 0.4712
+  },
+  {
+    "time": 1773453600000,
+    "ratio": 1.139,
+    "longAccount": 0.5325,
+    "shortAccount": 0.4675
+  },
+  {
+    "time": 1773457200000,
+    "ratio": 1.1436,
+    "longAccount": 0.5335,
+    "shortAccount": 0.4665
+  },
+  {
+    "time": 1773460800000,
+    "ratio": 1.1939,
+    "longAccount": 0.5442,
+    "shortAccount": 0.4558
+  },
+  {
+    "time": 1773464400000,
+    "ratio": 1.2051,
+    "longAccount": 0.5465,
+    "shortAccount": 0.4535
+  },
+  {
+    "time": 1773468000000,
+    "ratio": 1.1944,
+    "longAccount": 0.5443,
+    "shortAccount": 0.4557
+  },
+  {
+    "time": 1773471600000,
+    "ratio": 1.193,
+    "longAccount": 0.544,
+    "shortAccount": 0.456
+  },
+  {
+    "time": 1773475200000,
+    "ratio": 1.2046,
+    "longAccount": 0.5464,
+    "shortAccount": 0.4536
+  },
+  {
+    "time": 1773478800000,
+    "ratio": 1.206,
+    "longAccount": 0.5467,
+    "shortAccount": 0.4533
+  },
+  {
+    "time": 1773482400000,
+    "ratio": 1.207,
+    "longAccount": 0.5469,
+    "shortAccount": 0.4531
+  },
+  {
+    "time": 1773486000000,
+    "ratio": 1.2095,
+    "longAccount": 0.5474,
+    "shortAccount": 0.4526
+  },
+  {
+    "time": 1773489600000,
+    "ratio": 1.2376,
+    "longAccount": 0.5531,
+    "shortAccount": 0.4469
+  },
+  {
+    "time": 1773493200000,
+    "ratio": 1.2297,
+    "longAccount": 0.5515,
+    "shortAccount": 0.4485
+  },
+  {
+    "time": 1773496800000,
+    "ratio": 1.2437,
+    "longAccount": 0.5543,
+    "shortAccount": 0.4457
+  },
+  {
+    "time": 1773500400000,
+    "ratio": 1.2267,
+    "longAccount": 0.5509,
+    "shortAccount": 0.4491
+  },
+  {
+    "time": 1773504000000,
+    "ratio": 1.2341,
+    "longAccount": 0.5524,
+    "shortAccount": 0.4476
+  },
+  {
+    "time": 1773507600000,
+    "ratio": 1.2502,
+    "longAccount": 0.5556,
+    "shortAccount": 0.4444
+  },
+  {
+    "time": 1773511200000,
+    "ratio": 1.2487,
+    "longAccount": 0.5553,
+    "shortAccount": 0.4447
+  },
+  {
+    "time": 1773514800000,
+    "ratio": 1.2543,
+    "longAccount": 0.5564,
+    "shortAccount": 0.4436
+  },
+  {
+    "time": 1773518400000,
+    "ratio": 1.2589,
+    "longAccount": 0.5573,
+    "shortAccount": 0.4427
+  },
+  {
+    "time": 1773522000000,
+    "ratio": 1.2671,
+    "longAccount": 0.5589,
+    "shortAccount": 0.4411
+  },
+  {
+    "time": 1773525600000,
+    "ratio": 1.266,
+    "longAccount": 0.5587,
+    "shortAccount": 0.4413
+  },
+  {
+    "time": 1773529200000,
+    "ratio": 1.2701,
+    "longAccount": 0.5595,
+    "shortAccount": 0.4405
+  },
+  {
+    "time": 1773532800000,
+    "ratio": 1.2967,
+    "longAccount": 0.5646,
+    "shortAccount": 0.4354
+  },
+  {
+    "time": 1773536400000,
+    "ratio": 1.2862,
+    "longAccount": 0.5626,
+    "shortAccount": 0.4374
+  },
+  {
+    "time": 1773540000000,
+    "ratio": 1.2925,
+    "longAccount": 0.5638,
+    "shortAccount": 0.4362
+  },
+  {
+    "time": 1773543600000,
+    "ratio": 1.3159,
+    "longAccount": 0.5682,
+    "shortAccount": 0.4318
+  },
+  {
+    "time": 1773547200000,
+    "ratio": 1.3047,
+    "longAccount": 0.5661,
+    "shortAccount": 0.4339
+  },
+  {
+    "time": 1773550800000,
+    "ratio": 1.2936,
+    "longAccount": 0.564,
+    "shortAccount": 0.436
+  },
+  {
+    "time": 1773554400000,
+    "ratio": 1.2883,
+    "longAccount": 0.563,
+    "shortAccount": 0.437
+  },
+  {
+    "time": 1773558000000,
+    "ratio": 1.2635,
+    "longAccount": 0.5582,
+    "shortAccount": 0.4418
+  },
+  {
+    "time": 1773561600000,
+    "ratio": 1.2533,
+    "longAccount": 0.5562,
+    "shortAccount": 0.4438
+  },
+  {
+    "time": 1773565200000,
+    "ratio": 1.2477,
+    "longAccount": 0.5551,
+    "shortAccount": 0.4449
+  },
+  {
+    "time": 1773568800000,
+    "ratio": 1.2462,
+    "longAccount": 0.5548,
+    "shortAccount": 0.4452
+  },
+  {
+    "time": 1773572400000,
+    "ratio": 1.2416,
+    "longAccount": 0.5539,
+    "shortAccount": 0.4461
+  },
+  {
+    "time": 1773576000000,
+    "ratio": 1.2227,
+    "longAccount": 0.5501,
+    "shortAccount": 0.4499
+  },
+  {
+    "time": 1773579600000,
+    "ratio": 1.1968,
+    "longAccount": 0.5448,
+    "shortAccount": 0.4552
+  },
+  {
+    "time": 1773583200000,
+    "ratio": 1.1468,
+    "longAccount": 0.5342,
+    "shortAccount": 0.4658
+  },
+  {
+    "time": 1773586800000,
+    "ratio": 1.139,
+    "longAccount": 0.5325,
+    "shortAccount": 0.4675
+  },
+  {
+    "time": 1773590400000,
+    "ratio": 1.1386,
+    "longAccount": 0.5324,
+    "shortAccount": 0.4676
+  },
+  {
+    "time": 1773594000000,
+    "ratio": 1.1327,
+    "longAccount": 0.5311,
+    "shortAccount": 0.4689
+  },
+  {
+    "time": 1773597600000,
+    "ratio": 1.1617,
+    "longAccount": 0.5374,
+    "shortAccount": 0.4626
+  },
+  {
+    "time": 1773601200000,
+    "ratio": 1.1645,
+    "longAccount": 0.538,
+    "shortAccount": 0.462
+  },
+  {
+    "time": 1773604800000,
+    "ratio": 1.1664,
+    "longAccount": 0.5384,
+    "shortAccount": 0.4616
+  },
+  {
+    "time": 1773608400000,
+    "ratio": 1.1654,
+    "longAccount": 0.5382,
+    "shortAccount": 0.4618
+  },
+  {
+    "time": 1773612000000,
+    "ratio": 1.1626,
+    "longAccount": 0.5376,
+    "shortAccount": 0.4624
+  },
+  {
+    "time": 1773615600000,
+    "ratio": 1.1336,
+    "longAccount": 0.5313,
+    "shortAccount": 0.4687
+  },
+  {
+    "time": 1773619200000,
+    "ratio": 1.0864,
+    "longAccount": 0.5207,
+    "shortAccount": 0.4793
+  },
+  {
+    "time": 1773622800000,
+    "ratio": 1.0521,
+    "longAccount": 0.5127,
+    "shortAccount": 0.4873
+  },
+  {
+    "time": 1773626400000,
+    "ratio": 1.0479,
+    "longAccount": 0.5117,
+    "shortAccount": 0.4883
+  },
+  {
+    "time": 1773630000000,
+    "ratio": 1.0496,
+    "longAccount": 0.5121,
+    "shortAccount": 0.4879
+  },
+  {
+    "time": 1773633600000,
+    "ratio": 0.9589,
+    "longAccount": 0.4895,
+    "shortAccount": 0.5105
+  },
+  {
+    "time": 1773637200000,
+    "ratio": 0.9444,
+    "longAccount": 0.4857,
+    "shortAccount": 0.5143
+  },
+  {
+    "time": 1773640800000,
+    "ratio": 0.9153,
+    "longAccount": 0.4779,
+    "shortAccount": 0.5221
+  },
+  {
+    "time": 1773644400000,
+    "ratio": 0.8979,
+    "longAccount": 0.4731,
+    "shortAccount": 0.5269
+  },
+  {
+    "time": 1773648000000,
+    "ratio": 0.8695,
+    "longAccount": 0.4651,
+    "shortAccount": 0.5349
+  },
+  {
+    "time": 1773651600000,
+    "ratio": 0.8706,
+    "longAccount": 0.4654,
+    "shortAccount": 0.5346
+  },
+  {
+    "time": 1773655200000,
+    "ratio": 0.8979,
+    "longAccount": 0.4731,
+    "shortAccount": 0.5269
+  },
+  {
+    "time": 1773658800000,
+    "ratio": 0.9135,
+    "longAccount": 0.4774,
+    "shortAccount": 0.5226
+  },
+  {
+    "time": 1773662400000,
+    "ratio": 0.9008,
+    "longAccount": 0.4739,
+    "shortAccount": 0.5261
+  },
+  {
+    "time": 1773666000000,
+    "ratio": 0.9037,
+    "longAccount": 0.4747,
+    "shortAccount": 0.5253
+  },
+  {
+    "time": 1773669600000,
+    "ratio": 0.8772,
+    "longAccount": 0.4673,
+    "shortAccount": 0.5327
+  },
+  {
+    "time": 1773673200000,
+    "ratio": 0.8929,
+    "longAccount": 0.4717,
+    "shortAccount": 0.5283
+  },
+  {
+    "time": 1773676800000,
+    "ratio": 0.866,
+    "longAccount": 0.4641,
+    "shortAccount": 0.5359
+  },
+  {
+    "time": 1773680400000,
+    "ratio": 0.8755,
+    "longAccount": 0.4668,
+    "shortAccount": 0.5332
+  },
+  {
+    "time": 1773684000000,
+    "ratio": 0.8723,
+    "longAccount": 0.4659,
+    "shortAccount": 0.5341
+  },
+  {
+    "time": 1773687600000,
+    "ratio": 0.8522,
+    "longAccount": 0.4601,
+    "shortAccount": 0.5399
+  },
+  {
+    "time": 1773691200000,
+    "ratio": 0.8563,
+    "longAccount": 0.4613,
+    "shortAccount": 0.5387
+  },
+  {
+    "time": 1773694800000,
+    "ratio": 0.8625,
+    "longAccount": 0.4631,
+    "shortAccount": 0.5369
+  },
+  {
+    "time": 1773698400000,
+    "ratio": 0.8854,
+    "longAccount": 0.4696,
+    "shortAccount": 0.5304
+  },
+  {
+    "time": 1773702000000,
+    "ratio": 0.8713,
+    "longAccount": 0.4656,
+    "shortAccount": 0.5344
+  },
+  {
+    "time": 1773705600000,
+    "ratio": 0.8505,
+    "longAccount": 0.4596,
+    "shortAccount": 0.5404
+  },
+  {
+    "time": 1773709200000,
+    "ratio": 0.8495,
+    "longAccount": 0.4593,
+    "shortAccount": 0.5407
+  },
+  {
+    "time": 1773712800000,
+    "ratio": 0.8339,
+    "longAccount": 0.4547,
+    "shortAccount": 0.5453
+  },
+  {
+    "time": 1773716400000,
+    "ratio": 0.8437,
+    "longAccount": 0.4576,
+    "shortAccount": 0.5424
+  },
+  {
+    "time": 1773720000000,
+    "ratio": 0.856,
+    "longAccount": 0.4612,
+    "shortAccount": 0.5388
+  },
+  {
+    "time": 1773723600000,
+    "ratio": 0.8755,
+    "longAccount": 0.4668,
+    "shortAccount": 0.5332
+  },
+  {
+    "time": 1773727200000,
+    "ratio": 0.8904,
+    "longAccount": 0.471,
+    "shortAccount": 0.529
+  },
+  {
+    "time": 1773730800000,
+    "ratio": 0.9073,
+    "longAccount": 0.4757,
+    "shortAccount": 0.5243
+  },
+  {
+    "time": 1773734400000,
+    "ratio": 0.9238,
+    "longAccount": 0.4802,
+    "shortAccount": 0.5198
+  },
+  {
+    "time": 1773738000000,
+    "ratio": 0.9357,
+    "longAccount": 0.4834,
+    "shortAccount": 0.5166
+  },
+  {
+    "time": 1773741600000,
+    "ratio": 0.9354,
+    "longAccount": 0.4833,
+    "shortAccount": 0.5167
+  },
+  {
+    "time": 1773745200000,
+    "ratio": 0.9272,
+    "longAccount": 0.4811,
+    "shortAccount": 0.5189
+  },
+  {
+    "time": 1773748800000,
+    "ratio": 0.9414,
+    "longAccount": 0.4849,
+    "shortAccount": 0.5151
+  },
+  {
+    "time": 1773752400000,
+    "ratio": 0.9365,
+    "longAccount": 0.4836,
+    "shortAccount": 0.5164
+  },
+  {
+    "time": 1773756000000,
+    "ratio": 0.9474,
+    "longAccount": 0.4865,
+    "shortAccount": 0.5135
+  },
+  {
+    "time": 1773759600000,
+    "ratio": 0.9531,
+    "longAccount": 0.488,
+    "shortAccount": 0.512
+  },
+  {
+    "time": 1773763200000,
+    "ratio": 0.9508,
+    "longAccount": 0.4874,
+    "shortAccount": 0.5126
+  },
+  {
+    "time": 1773766800000,
+    "ratio": 0.9566,
+    "longAccount": 0.4889,
+    "shortAccount": 0.5111
+  },
+  {
+    "time": 1773770400000,
+    "ratio": 0.9589,
+    "longAccount": 0.4895,
+    "shortAccount": 0.5105
+  },
+  {
+    "time": 1773774000000,
+    "ratio": 0.9482,
+    "longAccount": 0.4867,
+    "shortAccount": 0.5133
+  },
+  {
+    "time": 1773777600000,
+    "ratio": 0.9339,
+    "longAccount": 0.4829,
+    "shortAccount": 0.5171
+  },
+  {
+    "time": 1773781200000,
+    "ratio": 0.9279,
+    "longAccount": 0.4813,
+    "shortAccount": 0.5187
+  },
+  {
+    "time": 1773784800000,
+    "ratio": 0.9231,
+    "longAccount": 0.48,
+    "shortAccount": 0.52
+  },
+  {
+    "time": 1773788400000,
+    "ratio": 0.9106,
+    "longAccount": 0.4766,
+    "shortAccount": 0.5234
+  },
+  {
+    "time": 1773792000000,
+    "ratio": 0.8997,
+    "longAccount": 0.4736,
+    "shortAccount": 0.5264
+  },
+  {
+    "time": 1773795600000,
+    "ratio": 0.9146,
+    "longAccount": 0.4777,
+    "shortAccount": 0.5223
+  },
+  {
+    "time": 1773799200000,
+    "ratio": 0.9198,
+    "longAccount": 0.4791,
+    "shortAccount": 0.5209
+  },
+  {
+    "time": 1773802800000,
+    "ratio": 0.9172,
+    "longAccount": 0.4784,
+    "shortAccount": 0.5216
+  },
+  {
+    "time": 1773806400000,
+    "ratio": 0.8972,
+    "longAccount": 0.4729,
+    "shortAccount": 0.5271
+  },
+  {
+    "time": 1773810000000,
+    "ratio": 0.8804,
+    "longAccount": 0.4682,
+    "shortAccount": 0.5318
+  },
+  {
+    "time": 1773813600000,
+    "ratio": 0.8947,
+    "longAccount": 0.4722,
+    "shortAccount": 0.5278
+  },
+  {
+    "time": 1773817200000,
+    "ratio": 0.9153,
+    "longAccount": 0.4779,
+    "shortAccount": 0.5221
+  },
+  {
+    "time": 1773820800000,
+    "ratio": 0.9425,
+    "longAccount": 0.4852,
+    "shortAccount": 0.5148
+  },
+  {
+    "time": 1773824400000,
+    "ratio": 0.9459,
+    "longAccount": 0.4861,
+    "shortAccount": 0.5139
+  },
+  {
+    "time": 1773828000000,
+    "ratio": 0.9421,
+    "longAccount": 0.4851,
+    "shortAccount": 0.5149
+  },
+  {
+    "time": 1773831600000,
+    "ratio": 0.9399,
+    "longAccount": 0.4845,
+    "shortAccount": 0.5155
+  },
+  {
+    "time": 1773835200000,
+    "ratio": 0.9673,
+    "longAccount": 0.4917,
+    "shortAccount": 0.5083
+  },
+  {
+    "time": 1773838800000,
+    "ratio": 1.0117,
+    "longAccount": 0.5029,
+    "shortAccount": 0.4971
+  },
+  {
+    "time": 1773842400000,
+    "ratio": 1.0619,
+    "longAccount": 0.515,
+    "shortAccount": 0.485
+  },
+  {
+    "time": 1773846000000,
+    "ratio": 1.1259,
+    "longAccount": 0.5296,
+    "shortAccount": 0.4704
+  },
+  {
+    "time": 1773849600000,
+    "ratio": 1.2665,
+    "longAccount": 0.5588,
+    "shortAccount": 0.4412
+  },
+  {
+    "time": 1773853200000,
+    "ratio": 1.2836,
+    "longAccount": 0.5621,
+    "shortAccount": 0.4379
+  },
+  {
+    "time": 1773856800000,
+    "ratio": 1.3425,
+    "longAccount": 0.5731,
+    "shortAccount": 0.4269
+  },
+  {
+    "time": 1773860400000,
+    "ratio": 1.3105,
+    "longAccount": 0.5672,
+    "shortAccount": 0.4328
+  },
+  {
+    "time": 1773864000000,
+    "ratio": 1.3381,
+    "longAccount": 0.5723,
+    "shortAccount": 0.4277
+  },
+  {
+    "time": 1773867600000,
+    "ratio": 1.3343,
+    "longAccount": 0.5716,
+    "shortAccount": 0.4284
+  },
+  {
+    "time": 1773871200000,
+    "ratio": 1.3496,
+    "longAccount": 0.5744,
+    "shortAccount": 0.4256
+  },
+  {
+    "time": 1773874800000,
+    "ratio": 1.3596,
+    "longAccount": 0.5762,
+    "shortAccount": 0.4238
+  },
+  {
+    "time": 1773878400000,
+    "ratio": 1.3889,
+    "longAccount": 0.5814,
+    "shortAccount": 0.4186
+  },
+  {
+    "time": 1773882000000,
+    "ratio": 1.3844,
+    "longAccount": 0.5806,
+    "shortAccount": 0.4194
+  },
+  {
+    "time": 1773885600000,
+    "ratio": 1.4085,
+    "longAccount": 0.5848,
+    "shortAccount": 0.4152
+  },
+  {
+    "time": 1773889200000,
+    "ratio": 1.419,
+    "longAccount": 0.5866,
+    "shortAccount": 0.4134
+  },
+  {
+    "time": 1773892800000,
+    "ratio": 1.4528,
+    "longAccount": 0.5923,
+    "shortAccount": 0.4077
+  },
+  {
+    "time": 1773896400000,
+    "ratio": 1.4643,
+    "longAccount": 0.5942,
+    "shortAccount": 0.4058
+  },
+  {
+    "time": 1773900000000,
+    "ratio": 1.4612,
+    "longAccount": 0.5937,
+    "shortAccount": 0.4063
+  },
+  {
+    "time": 1773903600000,
+    "ratio": 1.454,
+    "longAccount": 0.5925,
+    "shortAccount": 0.4075
+  },
+  {
+    "time": 1773907200000,
+    "ratio": 1.4295,
+    "longAccount": 0.5884,
+    "shortAccount": 0.4116
+  },
+  {
+    "time": 1773910800000,
+    "ratio": 1.3866,
+    "longAccount": 0.581,
+    "shortAccount": 0.419
+  },
+  {
+    "time": 1773914400000,
+    "ratio": 1.4331,
+    "longAccount": 0.589,
+    "shortAccount": 0.411
+  },
+  {
+    "time": 1773918000000,
+    "ratio": 1.4004,
+    "longAccount": 0.5834,
+    "shortAccount": 0.4166
+  },
+  {
+    "time": 1773921600000,
+    "ratio": 1.3981,
+    "longAccount": 0.583,
+    "shortAccount": 0.417
+  },
+  {
+    "time": 1773925200000,
+    "ratio": 1.439,
+    "longAccount": 0.59,
+    "shortAccount": 0.41
+  },
+  {
+    "time": 1773928800000,
+    "ratio": 1.5107,
+    "longAccount": 0.6017,
+    "shortAccount": 0.3983
+  },
+  {
+    "time": 1773932400000,
+    "ratio": 1.5648,
+    "longAccount": 0.6101,
+    "shortAccount": 0.3899
+  },
+  {
+    "time": 1773936000000,
+    "ratio": 1.5608,
+    "longAccount": 0.6095,
+    "shortAccount": 0.3905
+  },
+  {
+    "time": 1773939600000,
+    "ratio": 1.5432,
+    "longAccount": 0.6068,
+    "shortAccount": 0.3932
+  },
+  {
+    "time": 1773943200000,
+    "ratio": 1.5575,
+    "longAccount": 0.609,
+    "shortAccount": 0.391
+  },
+  {
+    "time": 1773946800000,
+    "ratio": 1.5621,
+    "longAccount": 0.6097,
+    "shortAccount": 0.3903
+  },
+  {
+    "time": 1773950400000,
+    "ratio": 1.5767,
+    "longAccount": 0.6119,
+    "shortAccount": 0.3881
+  },
+  {
+    "time": 1773954000000,
+    "ratio": 1.5913,
+    "longAccount": 0.6141,
+    "shortAccount": 0.3859
+  },
+  {
+    "time": 1773957600000,
+    "ratio": 1.576,
+    "longAccount": 0.6118,
+    "shortAccount": 0.3882
+  },
+  {
+    "time": 1773961200000,
+    "ratio": 1.5615,
+    "longAccount": 0.6096,
+    "shortAccount": 0.3904
+  },
+  {
+    "time": 1773964800000,
+    "ratio": 1.5504,
+    "longAccount": 0.6079,
+    "shortAccount": 0.3921
+  },
+  {
+    "time": 1773968400000,
+    "ratio": 1.5853,
+    "longAccount": 0.6132,
+    "shortAccount": 0.3868
+  },
+  {
+    "time": 1773972000000,
+    "ratio": 1.592,
+    "longAccount": 0.6142,
+    "shortAccount": 0.3858
+  },
+  {
+    "time": 1773975600000,
+    "ratio": 1.5661,
+    "longAccount": 0.6103,
+    "shortAccount": 0.3897
+  },
+  {
+    "time": 1773979200000,
+    "ratio": 1.57,
+    "longAccount": 0.6109,
+    "shortAccount": 0.3891
+  },
+  {
+    "time": 1773982800000,
+    "ratio": 1.5562,
+    "longAccount": 0.6088,
+    "shortAccount": 0.3912
+  },
+  {
+    "time": 1773986400000,
+    "ratio": 1.5272,
+    "longAccount": 0.6043,
+    "shortAccount": 0.3957
+  },
+  {
+    "time": 1773990000000,
+    "ratio": 1.5176,
+    "longAccount": 0.6028,
+    "shortAccount": 0.3972
+  },
+  {
+    "time": 1773993600000,
+    "ratio": 1.5195,
+    "longAccount": 0.6031,
+    "shortAccount": 0.3969
+  },
+  {
+    "time": 1773997200000,
+    "ratio": 1.4826,
+    "longAccount": 0.5972,
+    "shortAccount": 0.4028
+  },
+  {
+    "time": 1774000800000,
+    "ratio": 1.5082,
+    "longAccount": 0.6013,
+    "shortAccount": 0.3987
+  },
+  {
+    "time": 1774004400000,
+    "ratio": 1.5426,
+    "longAccount": 0.6067,
+    "shortAccount": 0.3933
+  },
+  {
+    "time": 1774008000000,
+    "ratio": 1.5355,
+    "longAccount": 0.6056,
+    "shortAccount": 0.3944
+  },
+  {
+    "time": 1774011600000,
+    "ratio": 1.5063,
+    "longAccount": 0.601,
+    "shortAccount": 0.399
+  },
+  {
+    "time": 1774015200000,
+    "ratio": 1.4814,
+    "longAccount": 0.597,
+    "shortAccount": 0.403
+  },
+  {
+    "time": 1774018800000,
+    "ratio": 1.4894,
+    "longAccount": 0.5983,
+    "shortAccount": 0.4017
+  },
+  {
+    "time": 1774022400000,
+    "ratio": 1.5304,
+    "longAccount": 0.6048,
+    "shortAccount": 0.3952
+  },
+  {
+    "time": 1774026000000,
+    "ratio": 1.5536,
+    "longAccount": 0.6084,
+    "shortAccount": 0.3916
+  },
+  {
+    "time": 1774029600000,
+    "ratio": 1.5608,
+    "longAccount": 0.6095,
+    "shortAccount": 0.3905
+  },
+  {
+    "time": 1774033200000,
+    "ratio": 1.5767,
+    "longAccount": 0.6119,
+    "shortAccount": 0.3881
+  },
+  {
+    "time": 1774036800000,
+    "ratio": 1.574,
+    "longAccount": 0.6115,
+    "shortAccount": 0.3885
+  },
+  {
+    "time": 1774040400000,
+    "ratio": 1.5826,
+    "longAccount": 0.6128,
+    "shortAccount": 0.3872
+  },
+  {
+    "time": 1774044000000,
+    "ratio": 1.5674,
+    "longAccount": 0.6105,
+    "shortAccount": 0.3895
+  },
+  {
+    "time": 1774047600000,
+    "ratio": 1.5497,
+    "longAccount": 0.6078,
+    "shortAccount": 0.3922
+  },
+  {
+    "time": 1774051200000,
+    "ratio": 1.5374,
+    "longAccount": 0.6059,
+    "shortAccount": 0.3941
+  },
+  {
+    "time": 1774054800000,
+    "ratio": 1.5291,
+    "longAccount": 0.6046,
+    "shortAccount": 0.3954
+  },
+  {
+    "time": 1774058400000,
+    "ratio": 1.5094,
+    "longAccount": 0.6015,
+    "shortAccount": 0.3985
+  },
+  {
+    "time": 1774062000000,
+    "ratio": 1.5031,
+    "longAccount": 0.6005,
+    "shortAccount": 0.3995
+  },
+  {
+    "time": 1774065600000,
+    "ratio": 1.4869,
+    "longAccount": 0.5979,
+    "shortAccount": 0.4021
+  },
+  {
+    "time": 1774069200000,
+    "ratio": 1.4697,
+    "longAccount": 0.5951,
+    "shortAccount": 0.4049
+  },
+  {
+    "time": 1774072800000,
+    "ratio": 1.4637,
+    "longAccount": 0.5941,
+    "shortAccount": 0.4059
+  },
+  {
+    "time": 1774076400000,
+    "ratio": 1.4661,
+    "longAccount": 0.5945,
+    "shortAccount": 0.4055
+  },
+  {
+    "time": 1774080000000,
+    "ratio": 1.4612,
+    "longAccount": 0.5937,
+    "shortAccount": 0.4063
+  },
+  {
+    "time": 1774083600000,
+    "ratio": 1.4438,
+    "longAccount": 0.5908,
+    "shortAccount": 0.4092
+  },
+  {
+    "time": 1774087200000,
+    "ratio": 1.4414,
+    "longAccount": 0.5904,
+    "shortAccount": 0.4096
+  },
+  {
+    "time": 1774090800000,
+    "ratio": 1.4307,
+    "longAccount": 0.5886,
+    "shortAccount": 0.4114
+  },
+  {
+    "time": 1774094400000,
+    "ratio": 1.4349,
+    "longAccount": 0.5893,
+    "shortAccount": 0.4107
+  },
+  {
+    "time": 1774098000000,
+    "ratio": 1.4307,
+    "longAccount": 0.5886,
+    "shortAccount": 0.4114
+  },
+  {
+    "time": 1774101600000,
+    "ratio": 1.4278,
+    "longAccount": 0.5881,
+    "shortAccount": 0.4119
+  },
+  {
+    "time": 1774105200000,
+    "ratio": 1.4284,
+    "longAccount": 0.5882,
+    "shortAccount": 0.4118
+  },
+  {
+    "time": 1774108800000,
+    "ratio": 1.4355,
+    "longAccount": 0.5894,
+    "shortAccount": 0.4106
+  },
+  {
+    "time": 1774112400000,
+    "ratio": 1.4207,
+    "longAccount": 0.5869,
+    "shortAccount": 0.4131
+  },
+  {
+    "time": 1774116000000,
+    "ratio": 1.4492,
+    "longAccount": 0.5917,
+    "shortAccount": 0.4083
+  },
+  {
+    "time": 1774119600000,
+    "ratio": 1.4624,
+    "longAccount": 0.5939,
+    "shortAccount": 0.4061
+  },
+  {
+    "time": 1774123200000,
+    "ratio": 1.4624,
+    "longAccount": 0.5939,
+    "shortAccount": 0.4061
+  },
+  {
+    "time": 1774126800000,
+    "ratio": 1.4697,
+    "longAccount": 0.5951,
+    "shortAccount": 0.4049
+  },
+  {
+    "time": 1774130400000,
+    "ratio": 1.4752,
+    "longAccount": 0.596,
+    "shortAccount": 0.404
+  },
+  {
+    "time": 1774134000000,
+    "ratio": 1.4765,
+    "longAccount": 0.5962,
+    "shortAccount": 0.4038
+  },
+  {
+    "time": 1774137600000,
+    "ratio": 1.5674,
+    "longAccount": 0.6105,
+    "shortAccount": 0.3895
+  },
+  {
+    "time": 1774141200000,
+    "ratio": 1.642,
+    "longAccount": 0.6215,
+    "shortAccount": 0.3785
+  },
+  {
+    "time": 1774144800000,
+    "ratio": 1.6688,
+    "longAccount": 0.6253,
+    "shortAccount": 0.3747
+  },
+  {
+    "time": 1774148400000,
+    "ratio": 1.6838,
+    "longAccount": 0.6274,
+    "shortAccount": 0.3726
+  },
+  {
+    "time": 1774152000000,
+    "ratio": 1.6652,
+    "longAccount": 0.6248,
+    "shortAccount": 0.3752
+  },
+  {
+    "time": 1774155600000,
+    "ratio": 1.642,
+    "longAccount": 0.6215,
+    "shortAccount": 0.3785
+  },
+  {
+    "time": 1774159200000,
+    "ratio": 1.6205,
+    "longAccount": 0.6184,
+    "shortAccount": 0.3816
+  },
+  {
+    "time": 1774162800000,
+    "ratio": 1.6178,
+    "longAccount": 0.618,
+    "shortAccount": 0.382
+  },
+  {
+    "time": 1774166400000,
+    "ratio": 1.6035,
+    "longAccount": 0.6159,
+    "shortAccount": 0.3841
+  },
+  {
+    "time": 1774170000000,
+    "ratio": 1.6462,
+    "longAccount": 0.6221,
+    "shortAccount": 0.3779
+  },
+  {
+    "time": 1774173600000,
+    "ratio": 1.666,
+    "longAccount": 0.6249,
+    "shortAccount": 0.3751
+  },
+  {
+    "time": 1774177200000,
+    "ratio": 1.6724,
+    "longAccount": 0.6258,
+    "shortAccount": 0.3742
+  },
+  {
+    "time": 1774180800000,
+    "ratio": 1.6867,
+    "longAccount": 0.6278,
+    "shortAccount": 0.3722
+  },
+  {
+    "time": 1774184400000,
+    "ratio": 1.7255,
+    "longAccount": 0.6331,
+    "shortAccount": 0.3669
+  },
+  {
+    "time": 1774188000000,
+    "ratio": 1.7442,
+    "longAccount": 0.6356,
+    "shortAccount": 0.3644
+  },
+  {
+    "time": 1774191600000,
+    "ratio": 1.7442,
+    "longAccount": 0.6356,
+    "shortAccount": 0.3644
+  },
+  {
+    "time": 1774195200000,
+    "ratio": 1.7495,
+    "longAccount": 0.6363,
+    "shortAccount": 0.3637
+  },
+  {
+    "time": 1774198800000,
+    "ratio": 1.7397,
+    "longAccount": 0.635,
+    "shortAccount": 0.365
+  },
+  {
+    "time": 1774202400000,
+    "ratio": 1.7337,
+    "longAccount": 0.6342,
+    "shortAccount": 0.3658
+  },
+  {
+    "time": 1774206000000,
+    "ratio": 1.7218,
+    "longAccount": 0.6326,
+    "shortAccount": 0.3674
+  },
+  {
+    "time": 1774209600000,
+    "ratio": 1.748,
+    "longAccount": 0.6361,
+    "shortAccount": 0.3639
+  },
+  {
+    "time": 1774213200000,
+    "ratio": 1.7624,
+    "longAccount": 0.638,
+    "shortAccount": 0.362
+  },
+  {
+    "time": 1774216800000,
+    "ratio": 1.7579,
+    "longAccount": 0.6374,
+    "shortAccount": 0.3626
+  },
+  {
+    "time": 1774220400000,
+    "ratio": 1.791,
+    "longAccount": 0.6417,
+    "shortAccount": 0.3583
+  },
+  {
+    "time": 1774224000000,
+    "ratio": 1.7917,
+    "longAccount": 0.6418,
+    "shortAccount": 0.3582
+  },
+  {
+    "time": 1774227600000,
+    "ratio": 1.8137,
+    "longAccount": 0.6446,
+    "shortAccount": 0.3554
+  },
+  {
+    "time": 1774231200000,
+    "ratio": 1.8233,
+    "longAccount": 0.6458,
+    "shortAccount": 0.3542
+  },
+  {
+    "time": 1774234800000,
+    "ratio": 1.8201,
+    "longAccount": 0.6454,
+    "shortAccount": 0.3546
+  },
+  {
+    "time": 1774238400000,
+    "ratio": 1.8217,
+    "longAccount": 0.6456,
+    "shortAccount": 0.3544
+  },
+  {
+    "time": 1774242000000,
+    "ratio": 1.849,
+    "longAccount": 0.649,
+    "shortAccount": 0.351
+  },
+  {
+    "time": 1774245600000,
+    "ratio": 1.8249,
+    "longAccount": 0.646,
+    "shortAccount": 0.354
+  },
+  {
+    "time": 1774249200000,
+    "ratio": 1.8596,
+    "longAccount": 0.6503,
+    "shortAccount": 0.3497
+  },
+  {
+    "time": 1774252800000,
+    "ratio": 1.8329,
+    "longAccount": 0.647,
+    "shortAccount": 0.353
+  },
+  {
+    "time": 1774256400000,
+    "ratio": 1.7716,
+    "longAccount": 0.6392,
+    "shortAccount": 0.3608
+  },
+  {
+    "time": 1774260000000,
+    "ratio": 1.7701,
+    "longAccount": 0.639,
+    "shortAccount": 0.361
+  },
+  {
+    "time": 1774263600000,
+    "ratio": 1.7495,
+    "longAccount": 0.6363,
+    "shortAccount": 0.3637
+  },
+  {
+    "time": 1774267200000,
+    "ratio": 1.5291,
+    "longAccount": 0.6046,
+    "shortAccount": 0.3954
+  },
+  {
+    "time": 1774270800000,
+    "ratio": 1.5471,
+    "longAccount": 0.6074,
+    "shortAccount": 0.3926
+  },
+  {
+    "time": 1774274400000,
+    "ratio": 1.4254,
+    "longAccount": 0.5877,
+    "shortAccount": 0.4123
+  },
+  {
+    "time": 1774278000000,
+    "ratio": 1.2936,
+    "longAccount": 0.564,
+    "shortAccount": 0.436
+  },
+  {
+    "time": 1774281600000,
+    "ratio": 1.324,
+    "longAccount": 0.5697,
+    "shortAccount": 0.4303
+  },
+  {
+    "time": 1774285200000,
+    "ratio": 1.4155,
+    "longAccount": 0.586,
+    "shortAccount": 0.414
+  },
+  {
+    "time": 1774288800000,
+    "ratio": 1.4056,
+    "longAccount": 0.5843,
+    "shortAccount": 0.4157
+  },
+  {
+    "time": 1774292400000,
+    "ratio": 1.3764,
+    "longAccount": 0.5792,
+    "shortAccount": 0.4208
+  },
+  {
+    "time": 1774296000000,
+    "ratio": 1.3441,
+    "longAccount": 0.5734,
+    "shortAccount": 0.4266
+  },
+  {
+    "time": 1774299600000,
+    "ratio": 1.3574,
+    "longAccount": 0.5758,
+    "shortAccount": 0.4242
+  },
+  {
+    "time": 1774303200000,
+    "ratio": 1.3602,
+    "longAccount": 0.5763,
+    "shortAccount": 0.4237
+  },
+  {
+    "time": 1774306800000,
+    "ratio": 1.3579,
+    "longAccount": 0.5759,
+    "shortAccount": 0.4241
+  },
+  {
+    "time": 1774310400000,
+    "ratio": 1.3866,
+    "longAccount": 0.581,
+    "shortAccount": 0.419
+  },
+  {
+    "time": 1774314000000,
+    "ratio": 1.3912,
+    "longAccount": 0.5818,
+    "shortAccount": 0.4182
+  },
+  {
+    "time": 1774317600000,
+    "ratio": 1.4038,
+    "longAccount": 0.584,
+    "shortAccount": 0.416
+  },
+  {
+    "time": 1774321200000,
+    "ratio": 1.4102,
+    "longAccount": 0.5851,
+    "shortAccount": 0.4149
+  },
+  {
+    "time": 1774324800000,
+    "ratio": 1.4195,
+    "longAccount": 0.5867,
+    "shortAccount": 0.4133
+  },
+  {
+    "time": 1774328400000,
+    "ratio": 1.4337,
+    "longAccount": 0.5891,
+    "shortAccount": 0.4109
+  },
+  {
+    "time": 1774332000000,
+    "ratio": 1.4504,
+    "longAccount": 0.5919,
+    "shortAccount": 0.4081
+  },
+  {
+    "time": 1774335600000,
+    "ratio": 1.4746,
+    "longAccount": 0.5959,
+    "shortAccount": 0.4041
+  },
+  {
+    "time": 1774339200000,
+    "ratio": 1.4814,
+    "longAccount": 0.597,
+    "shortAccount": 0.403
+  },
+  {
+    "time": 1774342800000,
+    "ratio": 1.4558,
+    "longAccount": 0.5928,
+    "shortAccount": 0.4072
+  },
+  {
+    "time": 1774346400000,
+    "ratio": 1.448,
+    "longAccount": 0.5915,
+    "shortAccount": 0.4085
+  },
+  {
+    "time": 1774350000000,
+    "ratio": 1.419,
+    "longAccount": 0.5866,
+    "shortAccount": 0.4134
+  },
+  {
+    "time": 1774353600000,
+    "ratio": 1.4056,
+    "longAccount": 0.5843,
+    "shortAccount": 0.4157
+  },
+  {
+    "time": 1774357200000,
+    "ratio": 1.3923,
+    "longAccount": 0.582,
+    "shortAccount": 0.418
+  },
+  {
+    "time": 1774360800000,
+    "ratio": 1.4643,
+    "longAccount": 0.5942,
+    "shortAccount": 0.4058
+  },
+  {
+    "time": 1774364400000,
+    "ratio": 1.5602,
+    "longAccount": 0.6094,
+    "shortAccount": 0.3906
+  },
+  {
+    "time": 1774368000000,
+    "ratio": 1.6103,
+    "longAccount": 0.6169,
+    "shortAccount": 0.3831
+  },
+  {
+    "time": 1774371600000,
+    "ratio": 1.642,
+    "longAccount": 0.6215,
+    "shortAccount": 0.3785
+  },
+  {
+    "time": 1774375200000,
+    "ratio": 1.7248,
+    "longAccount": 0.633,
+    "shortAccount": 0.367
+  },
+  {
+    "time": 1774378800000,
+    "ratio": 1.7655,
+    "longAccount": 0.6384,
+    "shortAccount": 0.3616
+  },
+  {
+    "time": 1774382400000,
+    "ratio": 1.751,
+    "longAccount": 0.6365,
+    "shortAccount": 0.3635
+  },
+  {
+    "time": 1774386000000,
+    "ratio": 1.7724,
+    "longAccount": 0.6393,
+    "shortAccount": 0.3607
+  },
+  {
+    "time": 1774389600000,
+    "ratio": 1.7624,
+    "longAccount": 0.638,
+    "shortAccount": 0.362
+  },
+  {
+    "time": 1774393200000,
+    "ratio": 1.7594,
+    "longAccount": 0.6376,
+    "shortAccount": 0.3624
+  },
+  {
+    "time": 1774396800000,
+    "ratio": 1.7034,
+    "longAccount": 0.6301,
+    "shortAccount": 0.3699
+  },
+  {
+    "time": 1774400400000,
+    "ratio": 1.6539,
+    "longAccount": 0.6232,
+    "shortAccount": 0.3768
+  },
+  {
+    "time": 1774404000000,
+    "ratio": 1.6116,
+    "longAccount": 0.6171,
+    "shortAccount": 0.3829
+  },
+  {
+    "time": 1774407600000,
+    "ratio": 1.5733,
+    "longAccount": 0.6114,
+    "shortAccount": 0.3886
+  },
+  {
+    "time": 1774411200000,
+    "ratio": 1.553,
+    "longAccount": 0.6083,
+    "shortAccount": 0.3917
+  },
+  {
+    "time": 1774414800000,
+    "ratio": 1.5164,
+    "longAccount": 0.6026,
+    "shortAccount": 0.3974
+  },
+  {
+    "time": 1774418400000,
+    "ratio": 1.4254,
+    "longAccount": 0.5877,
+    "shortAccount": 0.4123
+  },
+  {
+    "time": 1774422000000,
+    "ratio": 1.3883,
+    "longAccount": 0.5813,
+    "shortAccount": 0.4187
+  },
+  {
+    "time": 1774425600000,
+    "ratio": 1.3629,
+    "longAccount": 0.5768,
+    "shortAccount": 0.4232
+  },
+  {
+    "time": 1774429200000,
+    "ratio": 1.3524,
+    "longAccount": 0.5749,
+    "shortAccount": 0.4251
+  },
+  {
+    "time": 1774432800000,
+    "ratio": 1.3419,
+    "longAccount": 0.573,
+    "shortAccount": 0.427
+  },
+  {
+    "time": 1774436400000,
+    "ratio": 1.3218,
+    "longAccount": 0.5693,
+    "shortAccount": 0.4307
+  },
+  {
+    "time": 1774440000000,
+    "ratio": 1.2717,
+    "longAccount": 0.5598,
+    "shortAccount": 0.4402
+  },
+  {
+    "time": 1774443600000,
+    "ratio": 1.2553,
+    "longAccount": 0.5566,
+    "shortAccount": 0.4434
+  },
+  {
+    "time": 1774447200000,
+    "ratio": 1.2099,
+    "longAccount": 0.5475,
+    "shortAccount": 0.4525
+  },
+  {
+    "time": 1774450800000,
+    "ratio": 1.2056,
+    "longAccount": 0.5466,
+    "shortAccount": 0.4534
+  },
+  {
+    "time": 1774454400000,
+    "ratio": 1.2356,
+    "longAccount": 0.5527,
+    "shortAccount": 0.4473
+  },
+  {
+    "time": 1774458000000,
+    "ratio": 1.2517,
+    "longAccount": 0.5559,
+    "shortAccount": 0.4441
+  },
+  {
+    "time": 1774461600000,
+    "ratio": 1.2789,
+    "longAccount": 0.5612,
+    "shortAccount": 0.4388
+  },
+  {
+    "time": 1774465200000,
+    "ratio": 1.2994,
+    "longAccount": 0.5651,
+    "shortAccount": 0.4349
+  },
+  {
+    "time": 1774468800000,
+    "ratio": 1.3321,
+    "longAccount": 0.5712,
+    "shortAccount": 0.4288
+  },
+  {
+    "time": 1774472400000,
+    "ratio": 1.3392,
+    "longAccount": 0.5725,
+    "shortAccount": 0.4275
+  },
+  {
+    "time": 1774476000000,
+    "ratio": 1.3458,
+    "longAccount": 0.5737,
+    "shortAccount": 0.4263
+  },
+  {
+    "time": 1774479600000,
+    "ratio": 1.3485,
+    "longAccount": 0.5742,
+    "shortAccount": 0.4258
+  },
+  {
+    "time": 1774483200000,
+    "ratio": 1.3408,
+    "longAccount": 0.5728,
+    "shortAccount": 0.4272
+  },
+  {
+    "time": 1774486800000,
+    "ratio": 1.3513,
+    "longAccount": 0.5747,
+    "shortAccount": 0.4253
+  },
+  {
+    "time": 1774490400000,
+    "ratio": 1.3436,
+    "longAccount": 0.5733,
+    "shortAccount": 0.4267
+  },
+  {
+    "time": 1774494000000,
+    "ratio": 1.3764,
+    "longAccount": 0.5792,
+    "shortAccount": 0.4208
+  },
+  {
+    "time": 1774497600000,
+    "ratio": 1.3975,
+    "longAccount": 0.5829,
+    "shortAccount": 0.4171
+  },
+  {
+    "time": 1774501200000,
+    "ratio": 1.4067,
+    "longAccount": 0.5845,
+    "shortAccount": 0.4155
+  },
+  {
+    "time": 1774504800000,
+    "ratio": 1.4752,
+    "longAccount": 0.596,
+    "shortAccount": 0.404
+  },
+  {
+    "time": 1774508400000,
+    "ratio": 1.578,
+    "longAccount": 0.6121,
+    "shortAccount": 0.3879
+  },
+  {
+    "time": 1774512000000,
+    "ratio": 1.624,
+    "longAccount": 0.6189,
+    "shortAccount": 0.3811
+  },
+  {
+    "time": 1774515600000,
+    "ratio": 1.6406,
+    "longAccount": 0.6213,
+    "shortAccount": 0.3787
+  },
+  {
+    "time": 1774519200000,
+    "ratio": 1.6903,
+    "longAccount": 0.6283,
+    "shortAccount": 0.3717
+  },
+  {
+    "time": 1774522800000,
+    "ratio": 1.7189,
+    "longAccount": 0.6322,
+    "shortAccount": 0.3678
+  },
+  {
+    "time": 1774526400000,
+    "ratio": 1.7624,
+    "longAccount": 0.638,
+    "shortAccount": 0.362
+  },
+  {
+    "time": 1774530000000,
+    "ratio": 1.8369,
+    "longAccount": 0.6475,
+    "shortAccount": 0.3525
+  },
+  {
+    "time": 1774533600000,
+    "ratio": 1.9274,
+    "longAccount": 0.6584,
+    "shortAccount": 0.3416
+  },
+  {
+    "time": 1774537200000,
+    "ratio": 1.918,
+    "longAccount": 0.6573,
+    "shortAccount": 0.3427
+  },
+  {
+    "time": 1774540800000,
+    "ratio": 2.0057,
+    "longAccount": 0.6673,
+    "shortAccount": 0.3327
+  },
+  {
+    "time": 1774544400000,
+    "ratio": 2.003,
+    "longAccount": 0.667,
+    "shortAccount": 0.333
+  }
+]
